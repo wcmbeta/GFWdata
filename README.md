@@ -5,22 +5,22 @@
 ##Free Shadowsocks (ps.Change the password at any time)
    
 Ip:ss1.hidess.cc   
-Post:8866   
+Server Post: 8866   
 Pass:startss
 Method:aes-256-cfb   
 Timeout:600 Socks   
-Post:1690  
+ProxyPost:1690
 
 Ip:ss2.hidess.cc   
-Post:8866   
+Server Post: 8866
 Pass:startss   
 Method:aes-256-cfb   
 Timeout:600 Socks   
-Post:1690  
+ProxyPost:1690
 
 Ip:ss3.hidess.cc   
-Post:8866   
+Server Post: 8866
 Pass:startss   
 Method:aes-256-cfb   
 Timeout:600 Socks   
-Post:1690  
+ProxyPost:1690 
