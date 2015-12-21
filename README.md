@@ -6,21 +6,21 @@
    
 Ip:ss1.hidess.cc  
 Server Post: 8866  
-Pass:<font color=white>startss</font>  
+Pass:[startss]()  
 Method:aes-256-cfb  
 Timeout:600 Socks  
 ProxyPost:1690
   
 Ip:ss2.hidess.cc   
 Server Post: 8866  
-Pass:<font color=white>startss</font>  
+Pass:[startss](https://github.com/wcmbeta/fuckGFW/edit/master/README.md)  
 Method:aes-256-cfb  
 Timeout:600 Socks  
 ProxyPost:1690  
   
 Ip:ss3.hidess.cc  
 Server Post: 8866  
-Pass:<font color=white>startss</font>  
+Pass:[startss]()  
 Method:aes-256-cfb  
 Timeout:600 Socks  
 ProxyPost:1690  
