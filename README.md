@@ -5,22 +5,22 @@
 ##Free Shadowsocks (ps.Change the password at any time)
    
 Ip:ss1.hidess.cc   
-Post:8633   
-Pass:freehide.co.uk   
+Post:8866   
+Pass:startss
 Method:aes-256-cfb   
 Timeout:600 Socks   
-Post:1080  
+Post:1690  
 
 Ip:ss2.hidess.cc   
-Post:8644   
-Pass:freehide.co.uk   
+Post:8866   
+Pass:startss   
 Method:aes-256-cfb   
 Timeout:600 Socks   
-Post:1080  
+Post:1690  
 
 Ip:ss3.hidess.cc   
-Post:8655   
-Pass:freehide.co.uk   
+Post:8866   
+Pass:startss   
 Method:aes-256-cfb   
 Timeout:600 Socks   
-Post:1080  
+Post:1690  
