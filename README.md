@@ -38,8 +38,9 @@ Method:aes-256-cfb
 Timeout:600 Socks  
 ProxyPost:16900  
 
-###以下2个二维码ss由个人分享,速度还算稳定
-[![107.191.118.152](img/152.png)]
-
-[![107.161.26.100](img/100.png)]
+Ip:167.88.124.96  
+Server Post: 9001 
+Pass:[kjfwd](https://github.com/wcmbeta/fuckGFW/blob/master/README.md)  
+Method:aes-256-cfb  
+Timeout:600 Socks  
 
