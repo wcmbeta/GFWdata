@@ -44,3 +44,7 @@ Pass:[kjfwd](https://github.com/wcmbeta/fuckGFW/blob/master/README.md)
 Method:aes-256-cfb  
 Timeout:600 Socks  
 
++###以下二维码ss由个人分享,尽量日常搜索用
+ +[![107.191.118.152](img/http://158.69.212.186/.png)]
+
+ 
