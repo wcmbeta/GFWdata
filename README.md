@@ -18,10 +18,13 @@ https://s3.amazonaws.com/lantern-android/lantern-android-beta.apk
 ##Free Shadowsocks 
 
 Ip:158.69.223.144  
+
 Server Post: 9480 
+
 Pass:[VpX8sAcD6Z](https://github.com/wcmbeta/fuckGFW/blob/master/README.md)  
+
 Method:aes-256-cfb  
-Timeout:600 Socks  
+  
 
 
 
