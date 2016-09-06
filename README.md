@@ -16,35 +16,14 @@ https://s3.amazonaws.com/lantern-android/lantern-android-beta.apk
 
 ##免费 Shadowsocks代理(随时有可能改密码)
 ##Free Shadowsocks 
-   
-Ip:ss1.hidess.cc  
-Server Post: 8899  
-Pass:[startss.top](https://github.com/wcmbeta/fuckGFW/blob/master/README.md)  
-Method:aes-256-cfb  
-Timeout:600 Socks  
-ProxyPost:16900
-  
-Ip:ss2.hidess.cc   
-Server Post: 8899  
-Pass:[startss.top](https://github.com/wcmbeta/fuckGFW/blob/master/README.md)  
-Method:aes-256-cfb  
-Timeout:600 Socks  
-ProxyPost:16900  
-  
-Ip:ss3.hidess.cc  
-Server Post: 8899  
-Pass:[startss.top](https://github.com/wcmbeta/fuckGFW/blob/master/README.md)  
-Method:aes-256-cfb  
-Timeout:600 Socks  
-ProxyPost:16900  
 
-Ip:167.88.124.96  
-Server Post: 9001 
-Pass:[kjfwd](https://github.com/wcmbeta/fuckGFW/blob/master/README.md)  
+Ip:158.69.223.144  
+Server Post: 9480 
+Pass:[VpX8sAcD6Z](https://github.com/wcmbeta/fuckGFW/blob/master/README.md)  
 Method:aes-256-cfb  
 Timeout:600 Socks  
 
-+###以下二维码ss由个人分享,尽量日常搜索用
- +[![158](img/158.png)]
+
+
 
  
