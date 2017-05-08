@@ -16,16 +16,15 @@ https://s3.amazonaws.com/lantern-android/lantern-android-beta.apk
 
 ##免费 Shadowsocks代理(随时有可能改密码)
 ##Free Shadowsocks 
-
-Ip:158.69.223.144  
-
-Server Post: 9480 
-
-Pass:[VpX8sAcD6Z](https://github.com/wcmbeta/fuckGFW/blob/master/README.md)  
-
-Method:aes-256-cfb  
+ 
   
+节点：158.69.212.21
 
+端口：10616
+
+密码：VqGQZ2VuQt
+
+加密：aes-256-cfb
 
 
 
