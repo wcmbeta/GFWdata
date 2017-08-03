@@ -48,13 +48,16 @@ https://s3.amazonaws.com/lantern-android/lantern-android-beta.apk
 1. ..
 
 ##6. 自己搭建
+
 ###选择
 1. [vultr](http://www.vultr.com/?ref=7135423),最低2.5刀一个月,500G流量
 2. 搬瓦工,19.9刀一年
 3. 大杀器
+
 ###如何搭建
 1. [shadowsock](http://blog.wateroot.com/linux/vultr-install-shadowsock.html)
 2. [大杀器](https://gfw.press/blog/?p=21)
+
 ###加速
 1. [BBR](http://blog.wateroot.com/linux/linux-shadowsocks-bbr.html)
 2. 锐速
