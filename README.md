@@ -1,8 +1,8 @@
 # fuckGFW
 # 个人收集整理科学上网的资料,保持更新
 科学上网有风险,仅用于学习研究
+===================
 
-=======================
 ##1. Shadowsock Client
 ###Android
 see my /client/com.github.shadowsocks.apk or googleplay or netdisk
