@@ -3,6 +3,11 @@
 ===================
 科学上网有风险,仅用于学习研究
 
+## 0.修改hosts
+1. google-hosts文件[传送门](https://github.com/txthinking/google-hosts)
+
+
+
 ## 1.Shadowsock Client
 ### Android
 see my /client/com.github.shadowsocks.apk or googleplay or netdisk
@@ -36,7 +41,7 @@ https://s3.amazonaws.com/lantern-android/lantern-android-beta.apk
 一些人为了增加博客或者个人网站的名气也会分享一些节点,非常不稳定
 
 
-## 4.Gfw.press-大杀器
+##4.Gfw.press-大杀器
   注册-获取节点-下载-配置-done!
   1. 注册[传送门](https://gfw.press)
   2. 各种操作(工具下载,服务器搭建等)[传送门](https://gfw.press/blog/?p=2047)
