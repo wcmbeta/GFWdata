@@ -45,7 +45,7 @@
 -  [mac-蓝灯.dmg](/client/mac/lantern-installer.dmg)
 
 
-### linux
+
 ## 3.免费 Shadowsocks代理(随时有可能改密码)
   
 > - <del> 节点：158.69.212.21 </del>
@@ -58,7 +58,7 @@
 一些人为了增加博客或者个人网站的名气也会分享一些节点,非常不稳定
 
 
-##4.Gfw.press-大杀器
+## 4.Gfw.press-大杀器
   开放注册-获取节点-下载-配置-done!
   1. 注册[传送门](https://gfw.press)
   2. 各种操作(pc端，app等工具下载,服务器搭建等)[传送门](https://gfw.press/blog/?p=2047)
