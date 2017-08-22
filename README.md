@@ -77,8 +77,9 @@
 3. 大杀器
 
 ### 如何搭建
-1. [shadowsock](http://blog.wateroot.com/linux/vultr-install-shadowsock.html)
-2. [大杀器](https://gfw.press/blog/?p=21)
+1. [Shadowsocks](http://blog.wateroot.com/linux/vultr-install-shadowsock.html)
+2. [ShadowsocksR](http://blog.wateroot.com/gfw/vps-install-shadowsocksr.html)
+3. [大杀器](https://gfw.press/blog/?p=21)
 
 ### 加速
 1. [BBR](http://blog.wateroot.com/linux/linux-shadowsocks-bbr.html)
