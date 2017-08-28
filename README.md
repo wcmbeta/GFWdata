@@ -6,12 +6,12 @@
 
 目录
 -------------
-  * [0.修改hosts](#0.修改hosts)
-  * [1.Shadowsocks(R)](#1.Shadowsocks(R))
-  * [2.Lantern-蓝灯](#2.Lantern-蓝灯)
-  * [3.Gfw.press-大杀器](#3.Gfw.press-大杀器)
-  * [4.自己搭建](#4.自己搭建)
-  * [5.免费节点](#5.免费节点)
+  * [0.修改hosts](#0修改hosts)
+  * [1.Shadowsocks(R)](#1Shadowsocks(R))
+  * [2.Lantern-蓝灯](#2Lantern-蓝灯)
+  * [3.Gfw.press-大杀器](#3Gfw.press-大杀器)
+  * [4.自己搭建](#4自己搭建)
+  * [5.免费节点](#5免费节点)
 
 
 
