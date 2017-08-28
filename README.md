@@ -7,9 +7,9 @@
 目录
 -------------
   * [0.修改hosts](#0修改hosts)
-  * [1.Shadowsocks(R)](#1ShadowsocksR)
-  * [2.Lantern蓝灯](#2Lantern蓝灯)
-  * [3.Gfw.press大杀器](#3Gfw.press大杀器)
+  * [1.Shadowsocks(R)](#1shadowsocksr)
+  * [2.Lantern蓝灯](#2lantern蓝灯)
+  * [3.Gfw.press大杀器](#3gfwpress大杀器)
   * [4.自己搭建](#4自己搭建)
   * [5.免费节点](#5免费节点)
 
