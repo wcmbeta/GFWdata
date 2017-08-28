@@ -7,9 +7,9 @@
 目录
 -------------
   * [0.修改hosts](#0修改hosts)
-  * [1.Shadowsocks(R)](#1Shadowsocks(R))
-  * [2.Lantern-蓝灯](#2Lantern-蓝灯)
-  * [3.Gfw.press-大杀器](#3Gfw.press-大杀器)
+  * [1.Shadowsocks(R)](#1ShadowsocksR)
+  * [2.Lantern蓝灯](#2Lantern蓝灯)
+  * [3.Gfw.press大杀器](#3Gfw.press大杀器)
   * [4.自己搭建](#4自己搭建)
   * [5.免费节点](#5免费节点)
 
@@ -22,9 +22,9 @@
 
 
 
-1.Shadowsocks(R)
+1.ShadowsocksR
 -------------
-区分普通的SS和SSR,一般SSR版本也兼容SS，文件存放在client文件夹
+区分普通的SS和SSR,SSR版本可配置兼容SS，文件存放在client文件夹
 
 ### Android
 - [Shadowsock.apk](/client/android/com.github.shadowsocks.apk),百度云链接：http://pan.baidu.com/s/1mhhOVFU 密码：ss76
@@ -46,7 +46,7 @@
 - [ssx-ng-R8](/client/mac/SSX-NG-R8.dmg),百度云链接:http://pan.baidu.com/s/1eSN8QkE  密码:k48e，推荐用这个，作者持续更新
 
 
-2.Lantern-蓝灯
+2.Lantern蓝灯
 -------------
 [官网](https://getlantern.org),每个月免费500M流量
 ### 安装包 <del>百度云禁止共享</del>
@@ -55,7 +55,7 @@
 -  [windows-蓝灯.exe](/client/windows/lantern-installer.exe)
 -  [mac-蓝灯.dmg](/client/mac/lantern-installer.dmg)
 
-3.Gfw.press-大杀器
+3.Gfw.press大杀器
 -------------
   开放注册-获取节点-下载-配置-done!
   1. 注册[传送门](https://gfw.press)
