@@ -97,14 +97,14 @@
 
 6.相关链接
 -------------
-###github
+### github
  - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
  - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
  - [ShadowsocksX-NG-mac](https://github.com/shadowsocks/ShadowsocksX-NG)
  - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
  - [gfw.press](https://github.com/chinashiyu/gfw.press)
  
-###Twitter
+### Twitter
  - [clowwindy-shadowsocks](https://twitter.com/clowwindy)
  - [breakwa11-shadowsocksR](https://twitter.com/breakwa11)
  - [chinashiyu-gfw.press](https://twitter.com/chinashiyu)
