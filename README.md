@@ -33,9 +33,10 @@
 - [Shadowsock.apk](/client/android/com.github.shadowsocks.apk)，百度云链接：http://pan.baidu.com/s/1mhhOVFU 密码：ss76
 - <a href="https://play.googss-nightly-4.1.3.apkle.com/store/apps/details?id=com.github.shadowsocks"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
 
-- [SSR-3.3.5.apk](/client/android/ssr-3.3.5.apk)，百度云链接：链接:http://pan.baidu.com/s/1nuCpdyD  密码:d1e4
-
+- [SSR-3.3.5.apk](/client/android/ssr-3.3.5.apk)，百度云链接:http://pan.baidu.com/s/1nuCpdyD  密码:d1e4
+- [postern.apk](/client/android/postern.apk)，界面比较那个，却是Android里的surge，支持surge.conf，百度云链接:http://pan.baidu.com/s/1gf6Dzfd  密码:c6aq
 ### iOS 
+有能力建议购买正版支持作者,国区已购买参考[TestFlight](http://blog.wateroot.com/ios/ios-how-to-test-flight.html)，[配置规则/屏蔽广告](http://blog.wateroot.com/gfw/surge-conf-data.html)
 1. surge （中国区下架）  --- 同步推 
 2. shadowrocket(小飞机，中国区下架) --- PP助手
 3. Wingy （中国区下架）----PP助手  [App Store免费](https://itunes.apple.com/cn/app/shadowsocks-wingy-proxy-for-http-socks5-ss/id1148026741?mt=8)
@@ -65,7 +66,7 @@
   1. 注册[传送门](https://gfw.press)
   2. 各种操作(pc端，app等工具下载，服务器搭建等)[传送门](https://gfw.press/blog/?p=2047)
   3. 未越狱iOS用户[传送门](http://blog.wateroot.com/ios/ios-use-gfw-press.html)
-  4. ...
+  4. android用户可以尝试[postern]((/client/android/postern.apk))
 
 4.自己搭建
 -------------
@@ -105,6 +106,7 @@
  - [ShadowsocksX-NG-mac](https://github.com/shadowsocks/ShadowsocksX-NG)
  - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
  - [gfw.press](https://github.com/chinashiyu/gfw.press)
+ - surge规则配置[surge.conf](https://github.com/lhie1/Surge)
  
 ### Twitter
  - [clowwindy-shadowsocks](https://twitter.com/clowwindy)
