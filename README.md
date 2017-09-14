@@ -43,7 +43,7 @@
 4. potatso 
 
 ### Windows
-- [ss-3.4.3](/client/windows/ss-3.4.3.zip)，百度云链接:http://pan.baidu.com/s/1o87d3XS  密码:z99g
+- [ss-4.0.6](/client/windows/ss-4.0.6.zip)，百度云链接:http://pan.baidu.com/s/1kUEwYN1  密码:ip8p
 - [ssr-4.1.4](/client/windows/ssr-4.1.4-win.7z)，百度云链接:http://pan.baidu.com/s/1bpwACaj  密码:fu8m
 
 ### Mac
