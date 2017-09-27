@@ -3,7 +3,7 @@
 ===================
 
 
-科学上网有风险，仅用于学习研究
+科学上网有风险，仅用于学习研究，文件存放在client文件夹，图片存放在image文件夹
 
 
 目录
@@ -27,7 +27,7 @@
 
 1.ShadowsocksR
 -------------
-区分普通的SS和SSR，SSR版本可配置兼容SS，文件存放在client文件夹
+区分原版SS和SSR，SSR版本可选择配置兼容SS
 
 ### Android
 - [Shadowsock.apk](/client/android/com.github.shadowsocks.apk)，百度云链接：http://pan.baidu.com/s/1mhhOVFU 密码：ss76
@@ -36,7 +36,7 @@
 - [SSR-3.3.5.apk](/client/android/ssr-3.3.5.apk)，百度云链接:http://pan.baidu.com/s/1nuCpdyD  密码:d1e4
 - [postern.apk](/client/android/postern.apk)，界面比较那个，却是Android里的surge，支持surge.conf，百度云链接:http://pan.baidu.com/s/1gf6Dzfd  密码:c6aq
 ### iOS 
-有能力建议购买正版支持作者,国区已购买参考[TestFlight](http://blog.wateroot.com/ios/ios-how-to-test-flight.html)，[配置规则/屏蔽广告](http://blog.wateroot.com/gfw/surge-conf-data.html)
+有能力建议购买正版支持作者,国区已购买参考[TestFlight](http://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的规则[配置规则/屏蔽广告](http://blog.wateroot.com/gfw/surge-conf-data.html)
 1. surge （中国区下架）  --- 同步推 
 2. shadowrocket(小飞机，中国区下架) --- PP助手
 3. Wingy （中国区下架）----PP助手  [App Store免费](https://itunes.apple.com/cn/app/shadowsocks-wingy-proxy-for-http-socks5-ss/id1148026741?mt=8)
@@ -90,13 +90,13 @@
 -------------
  
 ### 提供免费体验/测试节点的网站
-一些站点为了增加网站的流量也会分享一些节点，并且几小时修改密码，不是很稳定，
+有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点，并且几小时修改密码，可能随时失效，不是很稳定，
 而且会有一些限制，比如bt，看视频等，也有被监控的风险。要求较高的建议付费节点或者自行搭建。
 
 - [ishadowx.com](http://ss.ishadowx.com)-每6小时改一次密码
 - [yhyhd.org](https://xsjs.yhyhd.org/free-ss)-每周改一次密码
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享
-
+- [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，但域名被墙，需要先有一个节点去访问。
 
 6.相关链接
 -------------
