@@ -3,7 +3,7 @@
 ===================
 
 
-科学上网有风险，仅用于学习研究，文件存放在client文件夹，图片存放在image文件夹
+科学上网有风险，仅用于学习研究，文件存放在client文件夹，图片存放在image文件夹,可以查看相关旧版本
 
 
 目录
@@ -36,7 +36,7 @@
 - [SSR-3.3.5.apk](/client/android/ssr-3.3.5.apk)，百度云链接:http://pan.baidu.com/s/1nuCpdyD  密码:d1e4
 - [postern.apk](/client/android/postern.apk)，界面比较那个，却是Android里的surge，支持surge.conf，百度云链接:http://pan.baidu.com/s/1gf6Dzfd  密码:c6aq
 ### iOS 
-有能力建议购买正版支持作者,国区已购买参考[TestFlight](http://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的规则[配置规则/屏蔽广告](http://blog.wateroot.com/gfw/surge-conf-data.html)
+有能力建议购买正版支持作者,国区已购买参考[TestFlight](http://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](http://blog.wateroot.com/gfw/surge-conf-data.html)
 1. surge （中国区下架）  --- 同步推 
 2. shadowrocket(小飞机，中国区下架) --- PP助手
 3. Wingy （中国区下架）----PP助手  [App Store免费](https://itunes.apple.com/cn/app/shadowsocks-wingy-proxy-for-http-socks5-ss/id1148026741?mt=8)
@@ -44,11 +44,14 @@
 
 ### Windows
 - [ss-4.0.6](/client/windows/ss-4.0.6.zip)，百度云链接:http://pan.baidu.com/s/1kUEwYN1  密码:ip8p
-- [ssr-4.1.4](/client/windows/ssr-4.1.4-win.7z)，百度云链接:http://pan.baidu.com/s/1bpwACaj  密码:fu8m
+- [ssr-4.7.0](/client/windows/ssr-4.7.0-win.7z)，百度云链接:http://pan.baidu.com/s/1o8wWVaE  密码:p4u3
 
 ### Mac
-- [ssx-2.6.3](/client/mac/ssx-2.6.3.dmg)，<del>百度云禁止共享</del>，这个是比较旧的版本
-- [ssx-ng-R8](/client/mac/SSX-NG-R8.dmg)，百度云链接:http://pan.baidu.com/s/1eSN8QkE  密码:k48e，推荐用这个，作者持续更新
+SSX带有-R8后缀的支持SSR
+- [ss-2.6.3](/client/mac/ss-2.6.3.dmg)，不是很推荐，是比较旧的版本，<del>百度云禁止共享</del>
+- [ssx-ng-1.6.1](/client/mac/SSX-NG.1.6.1.zip)，SS推荐这个，百度云链接:http://pan.baidu.com/s/1geUKVn1  密码:kaei
+- [ssx-ng-R8-1.4.1](/client/mac/SSX-NG-R8-1.4.1.dmg)，SSR,百度云链接:http://pan.baidu.com/s/1eSN8QkE  密码:k48e
+- [ssx-ng-R8-1.4.3](/client/mac/SSX-NG-R8-1.4.3.dmg)，SSR,百度云链接:http://pan.baidu.com/s/1qXOwYOc  密码:u5ow
 
 
 2.Lantern蓝灯
@@ -101,9 +104,11 @@
 6.相关链接
 -------------
 ### github
+反馈问题，查看代码，获取最新动态，最新版本
  - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
  - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
  - [ShadowsocksX-NG-mac](https://github.com/shadowsocks/ShadowsocksX-NG)
+ - [ShadowsocksX-NG-R-mac](https://github.com/qinyuhang/ShadowsocksX-NG-R)
  - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
  - [gfw.press](https://github.com/chinashiyu/gfw.press)
  - surge规则配置[surge.conf](https://github.com/lhie1/Surge)
