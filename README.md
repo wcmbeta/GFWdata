@@ -3,7 +3,7 @@
 ===================
 
 
-科学上网有风险，仅用于学习研究，文件存放在client文件夹，图片存放在image文件夹,可以查看相关旧版本
+科学上网有风险，仅用于学习研究，文件存放在client文件夹，图片存放在image文件夹,可以查看相关旧版本。
 
 
 目录
@@ -15,6 +15,7 @@
   * [4.自己搭建](#4自己搭建)
   * [5.免费节点](#5免费节点)
   * [6.相关链接](#6相关链接)
+  * [7.其他](#7其他)
 
 
 
@@ -96,10 +97,10 @@ SSX带有-R8后缀的支持SSR
 有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点，并且几小时修改密码，可能随时失效，不是很稳定，
 而且会有一些限制，比如bt，看视频等，也有被监控的风险。要求较高的建议付费节点或者自行搭建。
 
-- [ishadowx.com](http://ss.ishadowx.com)-每6小时改一次密码
+- [ishadowx.com](http://ss.ishadowx.com)-每6小时改一次密码，已墙,并重定向到[ishadowx.com](https://ss.ishadowx.net/)
 - [yhyhd.org](https://xsjs.yhyhd.org/free-ss)-每周改一次密码
-- [doub.io](https://doub.io/sszhfx/) - 站长和网友分享
-- [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，但域名被墙，需要先有一个节点去访问。
+- [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
+- [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙。
 
 6.相关链接
 -------------
@@ -122,5 +123,9 @@ SSX带有-R8后缀的支持SSR
  - [potatso](https://twitter.com/PotatsoApp)
  - [wingy](https://twitter.com/HelloWingy)
  
+ 7.其他
+ --------------
+ - SS、SSR没有所谓的什么官方网站，也不销售节点，使用收费节点注意甄别。
+ - 近期大面积节点被墙
  
 <del>早日肉翻</del>[回到顶部](#目录)
