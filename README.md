@@ -97,7 +97,7 @@ SSX带有-R8后缀的支持SSR
 有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点，并且几小时修改密码，可能随时失效，不是很稳定，
 而且会有一些限制，比如bt，看视频等，也有被监控的风险。要求较高的建议付费节点或者自行搭建。
 
-- [ishadowx.com](http://ss.ishadowx.com)-每6小时改一次密码，已墙,并重定向到[ishadowx.com](https://ss.ishadowx.net/)
+- [ishadowx.com](http://ss.ishadowx.com)-每6小时改一次密码，已墙,并重定向到[ishadowx.net](https://ss.ishadowx.net/)
 - [yhyhd.org](https://xsjs.yhyhd.org/free-ss)-每周改一次密码
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
 - [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙。
