@@ -3,7 +3,7 @@
 ===================
 
 
-科学上网有风险，仅用于学习研究，文件存放在client文件夹，图片存放在image文件夹,可以查看相关旧版本。
+科学上网有风险，仅用于学习研究，文件存放在client文件夹，可以查看相关旧版本，图片存放在image文件夹。如地址失效，版本过旧，欢迎pull request。
 
 
 目录
@@ -12,10 +12,14 @@
   * [1.Shadowsocks(R)](#1shadowsocksr)
   * [2.Lantern蓝灯](#2lantern蓝灯)
   * [3.Gfw.press大杀器](#3gfwpress大杀器)
-  * [4.自己搭建](#4自己搭建)
-  * [5.免费节点](#5免费节点)
-  * [6.相关链接](#6相关链接)
-  * [7.其他](#7其他)
+  * [4.VPN Gate](#4VPNGate)
+  * [5.psiphon3赛风](#5psiphon3赛风)
+  * [6.freegate自由门](#6freegate自由门)
+  * [7.Ultrasurf无界浏览](#7Ultrasurf无界浏览)
+  * [8.自己搭建](#8自己搭建)
+  * [9.免费节点](#9免费节点)
+  * [10.相关链接](#10相关链接)
+  * [11.其他](#11其他)
 
 
 
@@ -31,10 +35,10 @@
 区分原版SS和SSR，SSR版本可选择配置兼容SS
 
 ### Android
-- [Shadowsock.apk](/client/android/com.github.shadowsocks.apk)，百度云链接：http://pan.baidu.com/s/1mhhOVFU 密码：ss76
+- [Shadowsock.apk](/client/android/ss/com.github.shadowsocks.apk)，百度云链接：http://pan.baidu.com/s/1mhhOVFU 密码：ss76
 - <a href="https://play.googss-nightly-4.1.3.apkle.com/store/apps/details?id=com.github.shadowsocks"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
 
-- [SSR-3.3.5.apk](/client/android/ssr-3.3.5.apk)，百度云链接:http://pan.baidu.com/s/1nuCpdyD  密码:d1e4
+- [SSR-3.3.5.apk](/client/android/ssr/ssr-3.3.5.apk)，百度云链接:http://pan.baidu.com/s/1nuCpdyD  密码:d1e4
 - [postern.apk](/client/android/postern.apk)，界面比较那个，却是Android里的surge，支持surge.conf，百度云链接:http://pan.baidu.com/s/1gf6Dzfd  密码:c6aq
 ### iOS 
 有能力建议购买正版支持作者,国区已购买参考[TestFlight](http://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](http://blog.wateroot.com/gfw/surge-conf-data.html)
@@ -44,25 +48,25 @@
 4. potatso 
 
 ### Windows
-- [ss-4.0.6](/client/windows/ss-4.0.6.zip)，百度云链接:http://pan.baidu.com/s/1kUEwYN1  密码:ip8p
-- [ssr-4.7.0](/client/windows/ssr-4.7.0-win.7z)，百度云链接:http://pan.baidu.com/s/1o8wWVaE  密码:p4u3
+- [ss-4.0.6](/client/windows/ss/ss-4.0.6.zip)，百度云链接:http://pan.baidu.com/s/1kUEwYN1  密码:ip8p
+- [ssr-4.7.0](/client/windows/ssr/ssr-4.7.0-win.7z)，百度云链接:http://pan.baidu.com/s/1o8wWVaE  密码:p4u3
 
 ### Mac
 SSX带有-R8后缀的支持SSR
-- [ss-2.6.3](/client/mac/ss-2.6.3.dmg)，不是很推荐，是比较旧的版本，<del>百度云禁止共享</del>
-- [ssx-ng-1.6.1](/client/mac/SSX-NG.1.6.1.zip)，SS推荐这个，百度云链接:http://pan.baidu.com/s/1geUKVn1  密码:kaei
-- [ssx-ng-R8-1.4.1](/client/mac/SSX-NG-R8-1.4.1.dmg)，SSR,百度云链接:http://pan.baidu.com/s/1eSN8QkE  密码:k48e
-- [ssx-ng-R8-1.4.3](/client/mac/SSX-NG-R8-1.4.3.dmg)，SSR,百度云链接:http://pan.baidu.com/s/1qXOwYOc  密码:u5ow
+- [ss-2.6.3](/client/mac/ss/ss-2.6.3.dmg)，不是很推荐，是比较旧的版本，<del>百度云禁止共享</del>
+- [ssx-ng-1.6.1](/client/mac/ss/SSX-NG.1.6.1.zip)，SS推荐这个，百度云链接:http://pan.baidu.com/s/1geUKVn1  密码:kaei
+- [ssx-ng-R8-1.4.1](/client/mac/ssr/SSX-NG-R8-1.4.1.dmg)，SSR,百度云链接:http://pan.baidu.com/s/1eSN8QkE  密码:k48e
+- [ssx-ng-R8-1.4.3](/client/mac/ssr/SSX-NG-R8-1.4.3.dmg)，SSR,百度云链接:http://pan.baidu.com/s/1qXOwYOc  密码:u5ow
 
 
 2.Lantern蓝灯
 -------------
-[官网](https://getlantern.org)，每个月免费500M流量
+[官网](https://getlantern.org)，[官方论坛](https://github.com/getlantern/forum#蓝灯lantern最新版本下载)，每个月免费500M流量
 ### 安装包 <del>百度云禁止共享</del>
--  [android-蓝灯.apk](/client/android/org.getlantern.lantern.apk) 
+-  [android-蓝灯-4.2.2.apk](/client/android/lantern/lantern-4.2.2-2017-10-16.apk) 
 - <a href="https://play.google.com/store/apps/details?id=org.getlantern.lantern"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
--  [windows-蓝灯.exe](/client/windows/lantern-installer.exe)
--  [mac-蓝灯.dmg](/client/mac/lantern-installer.dmg)
+-  [windows-蓝灯.exe](/client/windows/lantern/lantern-installer.exe)
+-  [mac-蓝灯.dmg](/client/mac/lantern/lantern-installer.dmg)
 
 3.Gfw.press大杀器
 -------------
@@ -72,7 +76,46 @@ SSX带有-R8后缀的支持SSR
   3. 未越狱iOS用户[传送门](http://blog.wateroot.com/ios/ios-use-gfw-press.html)
   4. android用户可以尝试[postern]((/client/android/postern.apk))
 
-4.自己搭建
+4.VPNGate
+-------------
+VPN Gate 免费的学术实验项目。
+- [官网](http://www.vpngate.net/) 提供镜像，以及每日镜像邮件订阅，提供节点和教程。
+
+### SoftEther VPN（推荐）
+这种方式windows独有，需配合客户端使用，安装-搜索公共VPN-连接。另外[MS-SSTP]协议也只适用windows，但不需要客户端
+- [windows-2017.10.25](/client/windows/vpngate/vpngate-client-2017.10.25-build-9651.139714.zip),百度云链接:http://pan.baidu.com/s/1pLUMtKJ  密码:3z2m
+
+### 通用协议
+适用于windows及其他设备如Mac、Android、iPhone等使用以下协议方案来使用在vpngate官网获取的节点，以下两种方式尝试了多次未能成功。
+- [L2TP/IPsec]() 可以通过系统设置创建vpn连接的方式
+- [OpenVPN]() 使用相应的openvpn工具连接
+
+### OpenVPN client
+一般来说，下载安装OpenVPN客户端，下载节点的配置文件[示例文件-.open](/conf/open-vpn/vpngate_60.128.248.155_udp_1323.ovpn)（可能已失效），然后连接。
+- [windows-2017.9.26](/client/windows/open-vpn/openvpn-install-2.4.4-I601.exe)
+- [mac-tunnelblick](/client/mac/open-vpn/Tunnelblick_3.7.3_build_4880.dmg)
+
+5.psiphon3赛风
+-------------
+[网站](https://psiphon3.com)
+
+- [windows](/client/windows/psiphon3/psiphon3.exe)
+- [Android](/client/android/psiphon3/PsiphonAndroid.apk)
+- [iOS-浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)国区下架
+
+6.freegate自由门
+-------------
+[网站](dongtaiwang.com)
+- [windows-7.61-20170512](/client/windows/freegate/fg761p.zip)
+- <del>[Android-3.2](/client/android/freegate/fgma-3.2.apk)</del> 2015年的版本，基本可以无视
+
+7.Ultrasurf无界浏览
+-------------
+[网站](http://www.wujieliulan.com)
+- [windows-16.03-201607120](/client/windows/Ultrasurf/u.exe)
+- [Android-4.0-20170415](/client/android/Ultrasurf/um.apk)
+
+8.自己搭建
 -------------
 
 ### vps选择
@@ -90,7 +133,7 @@ SSX带有-R8后缀的支持SSR
 1. [BBR](http://blog.wateroot.com/linux/linux-shadowsocks-bbr.html)
 2. 锐速
 
-5.免费节点 
+9.免费节点 
 -------------
  
 ### 提供免费体验/测试节点的网站
@@ -102,30 +145,31 @@ SSX带有-R8后缀的支持SSR
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
 - [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙。
 
-6.相关链接
+10.相关链接
 -------------
 ### github
 反馈问题，查看代码，获取最新动态，最新版本
- - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
- - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
- - [ShadowsocksX-NG-mac](https://github.com/shadowsocks/ShadowsocksX-NG)
- - [ShadowsocksX-NG-R-mac](https://github.com/qinyuhang/ShadowsocksX-NG-R)
- - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
- - [gfw.press](https://github.com/chinashiyu/gfw.press)
- - surge规则配置[surge.conf](https://github.com/lhie1/Surge)
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
+- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+- [ShadowsocksX-NG-mac](https://github.com/shadowsocks/ShadowsocksX-NG)
+- [ShadowsocksX-NG-R-mac](https://github.com/qinyuhang/ShadowsocksX-NG-R)
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
+- [gfw.press](https://github.com/chinashiyu/gfw.press)
+- [surge.conf](https://github.com/lhie1/Surge)
+- [GFWList](https://github.com/gfwlist/gfwlist)
  
 ### Twitter
- - [clowwindy-shadowsocks](https://twitter.com/clowwindy)
- - [breakwa11-shadowsocksR](https://twitter.com/breakwa11)
- - [chinashiyu-gfw.press](https://twitter.com/chinashiyu)
- - [surge](https://twitter.com/SurgeDebugger)
- - [shadowrocket](https://twitter.com/ShadowrocketApp)
- - [potatso](https://twitter.com/PotatsoApp)
- - [wingy](https://twitter.com/HelloWingy)
+- [clowwindy-shadowsocks](https://twitter.com/clowwindy)
+- [breakwa11-shadowsocksR](https://twitter.com/breakwa11)
+- [chinashiyu-gfw.press](https://twitter.com/chinashiyu)
+- [surge](https://twitter.com/SurgeDebugger)
+- [shadowrocket](https://twitter.com/ShadowrocketApp)
+- [potatso](https://twitter.com/PotatsoApp)
+- [wingy](https://twitter.com/HelloWingy)
  
- 7.其他
- --------------
- - SS、SSR没有所谓的什么官方网站，也不销售节点，使用收费节点注意甄别。
- - 近期大面积节点被墙
+11.其他
+--------------
+- SS、SSR没有所谓的什么官方网站，也不销售节点，使用收费节点注意甄别。
+- 近期大面积节点被墙，所以添加一些老牌的工具，速度不一定可观
  
 <del>早日肉翻</del>[回到顶部](#目录)
