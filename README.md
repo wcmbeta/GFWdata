@@ -16,10 +16,11 @@
   * [5.psiphon3赛风](#5psiphon3赛风)
   * [6.freegate自由门](#6freegate自由门)
   * [7.Ultrasurf无界浏览](#7ultrasurf无界浏览)
-  * [8.自己搭建](#8自己搭建)
-  * [9.免费节点](#9免费节点)
-  * [10.相关链接](#10相关链接)
-  * [11.其他](#11其他)
+  * [8.XX-Net](#8xxnet)
+  * [9.自己搭建](#9自己搭建)
+  * [10.免费节点](#10免费节点)
+  * [11.相关链接](#11相关链接)
+  * [12.其他](#12其他)
 
 
 
@@ -115,7 +116,14 @@ VPN Gate 免费的学术实验项目。
 - [windows-16.03-201607120](/client/windows/Ultrasurf/u.exe)
 - [Android-4.0-20170415](/client/android/Ultrasurf/um.apk)
 
-8.自己搭建
+8.XXNet
+-------------
+类GoAgent，启动（start）-获取ip-连接GAE proxy(即Google App Engine，自带公共ID,也可以自己创建部署：一个id每天1G流量)，也可以使用X_tunnel(收费)，IP获取晚上比较容易，公共ID也可以看YouTube标清
+[github](https://github.com/XX-net/XX-Net)
+- [windows/mac](/client/xx-net/XX-Net-3.7.7.zip)
+- [Android-3.6.3](/client/xx-net/android/XX-Net-3.6.3-debug.apk)
+
+9.自己搭建
 -------------
 
 ### vps选择
@@ -133,7 +141,7 @@ VPN Gate 免费的学术实验项目。
 1. [BBR](http://blog.wateroot.com/linux/linux-shadowsocks-bbr.html)
 2. 锐速
 
-9.免费节点 
+10.免费节点 
 -------------
  
 ### 提供免费体验/测试节点的网站
@@ -145,7 +153,7 @@ VPN Gate 免费的学术实验项目。
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
 - [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙。
 
-10.相关链接
+11.相关链接
 -------------
 ### github
 反馈问题，查看代码，获取最新动态，最新版本
@@ -167,7 +175,7 @@ VPN Gate 免费的学术实验项目。
 - [potatso](https://twitter.com/PotatsoApp)
 - [wingy](https://twitter.com/HelloWingy)
  
-11.其他
+12.其他
 --------------
 - SS、SSR没有所谓的什么官方网站，也不销售节点，使用收费节点注意甄别。
 - 近期大面积节点被墙，所以添加一些老牌的工具，速度不一定可观
