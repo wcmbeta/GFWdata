@@ -3,7 +3,7 @@
 ===================
 
 
-科学上网有风险，仅用于学习研究，文件存放在client文件夹，可以查看相关旧版本，图片存放在image文件夹。如地址失效，版本过旧，欢迎pull request。
+科学上网有风险，仅用于学习研究，文件存放在client文件夹，可以查看相关旧版本，图片存放在image文件夹。如地址失效，版本过旧，欢迎issue、pull request。
 
 
 目录
@@ -42,7 +42,7 @@
 - [SSR-3.3.5.apk](/client/android/ssr/ssr-3.3.5.apk)，百度云链接:http://pan.baidu.com/s/1nuCpdyD  密码:d1e4
 - [postern.apk](/client/android/postern.apk)，界面比较那个，却是Android里的surge，支持surge.conf，百度云链接:http://pan.baidu.com/s/1gf6Dzfd  密码:c6aq
 ### iOS 
-有能力建议购买正版支持作者,国区已购买参考[TestFlight](http://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](http://blog.wateroot.com/gfw/surge-conf-data.html)
+有能力建议购买正版支持作者,国区已购买参考[TestFlight](https://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](https://blog.wateroot.com/gfw/surge-conf-data.html)
 1. surge （中国区下架）  --- 同步推 
 2. shadowrocket(小飞机，中国区下架) --- PP助手
 3. Wingy （中国区下架）----PP助手  [App Store免费](https://itunes.apple.com/cn/app/shadowsocks-wingy-proxy-for-http-socks5-ss/id1148026741?mt=8)
@@ -74,7 +74,7 @@ SSX带有-R8后缀的支持SSR
   开放注册-获取节点-下载-配置-done!
   1. 注册[传送门](https://gfw.press)
   2. 各种操作(pc端，app等工具下载，服务器搭建等)[传送门](https://gfw.press/blog/?p=2047)
-  3. 未越狱iOS用户[传送门](http://blog.wateroot.com/ios/ios-use-gfw-press.html)
+  3. 未越狱iOS用户[传送门](https://blog.wateroot.com/ios/ios-use-gfw-press.html)
   4. android用户可以尝试[postern]((/client/android/postern.apk))
 
 4.VPNGate
@@ -133,12 +133,12 @@ VPN Gate 免费的学术实验项目。
 4. [RamNode](http://www.ramnode.com/)
 
 ### 如何搭建
-1. [Shadowsocks](http://blog.wateroot.com/linux/vultr-install-shadowsock.html)
-2. [ShadowsocksR](http://blog.wateroot.com/gfw/vps-install-shadowsocksr.html)
+1. [Shadowsocks](https://blog.wateroot.com/linux/vultr-install-shadowsock.html)
+2. [ShadowsocksR](https://blog.wateroot.com/gfw/vps-install-shadowsocksr.html)
 3. [大杀器](https://gfw.press/blog/?p=21)
 
 ### 加速
-1. [BBR](http://blog.wateroot.com/linux/linux-shadowsocks-bbr.html)
+1. [BBR](https://blog.wateroot.com/linux/linux-shadowsocks-bbr.html)
 2. 锐速
 
 10.免费节点 
@@ -151,7 +151,7 @@ VPN Gate 免费的学术实验项目。
 - [ishadowx.com](http://ss.ishadowx.com)-每6小时改一次密码，已墙,并重定向到[ishadowx.net](https://ss.ishadowx.net/)
 - [yhyhd.org](https://xsjs.yhyhd.org/free-ss)-每周改一次密码
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
-- [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙。
+- [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙,作者消失一段时间后表示，暂时不更新免费节点。
 
 11.相关链接
 -------------
