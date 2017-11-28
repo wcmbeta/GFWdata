@@ -36,11 +36,12 @@
 区分原版SS和SSR，SSR版本可选择配置兼容SS
 
 ### Android
-- [Shadowsock.apk](/client/android/ss/com.github.shadowsocks.apk)，百度云链接：http://pan.baidu.com/s/1mhhOVFU 密码：ss76
+- [Shadowsock.apk](/client/android/ss/com.github.shadowsocks.apk)
 - <a href="https://play.googss-nightly-4.1.3.apkle.com/store/apps/details?id=com.github.shadowsocks"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
 
-- [SSR-3.3.5.apk](/client/android/ssr/ssr-3.3.5.apk)，百度云链接:http://pan.baidu.com/s/1nuCpdyD  密码:d1e4
-- [postern.apk](/client/android/postern.apk)，界面比较那个，却是Android里的surge，支持surge.conf，百度云链接:http://pan.baidu.com/s/1gf6Dzfd  密码:c6aq
+- [SSR-3.3.5.apk](/client/android/ssr/ssr-3.3.5.apk)
+- [postern.apk](/client/android/postern.apk)，界面比较那个，却是Android里的surge，支持surge.conf
+
 ### iOS 
 有能力建议购买正版支持作者,国区已购买参考[TestFlight](https://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](https://blog.wateroot.com/gfw/surge-conf-data.html)
 1. surge （中国区下架）  --- 同步推 
@@ -49,21 +50,21 @@
 4. potatso 
 
 ### Windows
-- [ss-4.0.6](/client/windows/ss/ss-4.0.6.zip)，百度云链接:http://pan.baidu.com/s/1kUEwYN1  密码:ip8p
-- [ssr-4.7.0](/client/windows/ssr/ssr-4.7.0-win.7z)，百度云链接:http://pan.baidu.com/s/1o8wWVaE  密码:p4u3
+- [ss-4.0.6](/client/windows/ss/ss-4.0.6.zip)
+- [ssr-4.7.0](/client/windows/ssr/ssr-4.7.0-win.7z)
 
 ### Mac
 SSX带有-R8后缀的支持SSR
-- [ss-2.6.3](/client/mac/ss/ss-2.6.3.dmg)，不是很推荐，是比较旧的版本，<del>百度云禁止共享</del>
-- [ssx-ng-1.6.1](/client/mac/ss/SSX-NG.1.6.1.zip)，SS推荐这个，百度云链接:http://pan.baidu.com/s/1geUKVn1  密码:kaei
-- [ssx-ng-R8-1.4.1](/client/mac/ssr/SSX-NG-R8-1.4.1.dmg)，SSR,百度云链接:http://pan.baidu.com/s/1eSN8QkE  密码:k48e
-- [ssx-ng-R8-1.4.3](/client/mac/ssr/SSX-NG-R8-1.4.3.dmg)，SSR,百度云链接:http://pan.baidu.com/s/1qXOwYOc  密码:u5ow
+- [ss-2.6.3](/client/mac/ss/ss-2.6.3.dmg)，不是很推荐，是比较旧的版本
+- [ssx-ng-1.6.1](/client/mac/ss/SSX-NG.1.6.1.zip)，SS推荐这个
+- [ssx-ng-R8-1.4.1](/client/mac/ssr/SSX-NG-R8-1.4.1.dmg)，SSR
+- [ssx-ng-R8-1.4.3](/client/mac/ssr/SSX-NG-R8-1.4.3.dmg)，SSR
 
 
 2.Lantern蓝灯
 -------------
 [官网](https://getlantern.org)，[官方论坛](https://github.com/getlantern/forum#蓝灯lantern最新版本下载)，每个月免费500M流量
-### 安装包 <del>百度云禁止共享</del>
+### 安装包 
 -  [android-蓝灯-4.2.2.apk](/client/android/lantern/lantern-4.2.2-2017-10-16.apk) 
 - <a href="https://play.google.com/store/apps/details?id=org.getlantern.lantern"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
 -  [windows-蓝灯.exe](/client/windows/lantern/lantern-installer.exe)
@@ -84,7 +85,7 @@ VPN Gate 免费的学术实验项目。
 
 ### SoftEther VPN（推荐）
 这种方式windows独有，需配合客户端使用，安装-搜索公共VPN-连接。另外[MS-SSTP]协议也只适用windows，但不需要客户端
-- [windows-2017.10.25](/client/windows/vpngate/vpngate-client-2017.10.25-build-9651.139714.zip),百度云链接:http://pan.baidu.com/s/1pLUMtKJ  密码:3z2m
+- [windows-2017.10.25](/client/windows/vpngate/vpngate-client-2017.10.25-build-9651.139714.zip)
 
 ### 通用协议
 适用于windows及其他设备如Mac、Android、iPhone等使用以下协议方案来使用在vpngate官网获取的节点，以下两种方式尝试了多次未能成功。
