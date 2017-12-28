@@ -3,8 +3,8 @@
 ===================
 
 
-科学上网有风险，仅用于学习研究，文件存放在client文件夹，可以查看相关旧版本，图片存放在image文件夹。如地址失效，版本过旧，欢迎issue、pull request。
-
+科学上网有风险，仅用于学习研究，文件存放在client文件夹，可以查看相关旧版本，图片存放在image文件夹。
+如地址失效，版本过旧，欢迎issue、pull request。
 
 目录
 -------------
@@ -72,7 +72,7 @@ SSX带有-R8后缀的支持SSR
 
 3.Gfw.press大杀器
 -------------
-  开放注册-获取节点-下载-配置-done!
+  <del>开放注册-获取节点-下载-配置-done!</del>经2017-10之后,暂停提供免费服务
   1. 注册[传送门](https://gfw.press)
   2. 各种操作(pc端，app等工具下载，服务器搭建等)[传送门](https://gfw.press/blog/?p=2047)
   3. 未越狱iOS用户[传送门](https://blog.wateroot.com/ios/ios-use-gfw-press.html)
@@ -82,6 +82,14 @@ SSX带有-R8后缀的支持SSR
 -------------
 VPN Gate 免费的学术实验项目。
 - [官网](http://www.vpngate.net/) 提供镜像，以及每日镜像邮件订阅，提供节点和教程。
+
+### 镜像站点列表 
+(更新于 2017-12-28 09:57:02 UTC)
+- [镜像1](http://125.132.66.174:15947/cn/) (Mirror location: Korea Republic of)
+- [镜像2](http://118.40.207.40:48695/cn/) (Mirror location: Korea Republic of)
+- [镜像3](http://p1252228-ipngn14501marunouchi.tokyo.ocn.ne.jp:27869/cn/) (Mirror location: Japan)
+- [镜像4](http://rrcs-74-142-245-76.central.biz.rr.com:11455/cn/) (Mirror location: United States)
+- [镜像5](http://176.192.215.160:60457/cn/) (Mirror location: Russian Federation)
 
 ### SoftEther VPN（推荐）
 这种方式windows独有，需配合客户端使用，安装-搜索公共VPN-连接。另外[MS-SSTP]协议也只适用windows，但不需要客户端
@@ -107,13 +115,11 @@ VPN Gate 免费的学术实验项目。
 
 6.freegate自由门
 -------------
-[网站](dongtaiwang.com)
 - [windows-7.61-20170512](/client/windows/freegate/fg761p.zip)
 - <del>[Android-3.2](/client/android/freegate/fgma-3.2.apk)</del> 2015年的版本，基本可以无视
 
 7.Ultrasurf无界浏览
 -------------
-[网站](http://www.wujieliulan.com)
 - [windows-16.03-201607120](/client/windows/Ultrasurf/u.exe)
 - [Android-4.0-20170415](/client/android/Ultrasurf/um.apk)
 
@@ -149,8 +155,7 @@ VPN Gate 免费的学术实验项目。
 有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点，并且几小时修改密码，可能随时失效，不是很稳定，
 而且会有一些限制，比如bt，看视频等，也有被监控的风险。要求较高的建议付费节点或者自行搭建。
 
-- [ishadowx.com](http://ss.ishadowx.com)-每6小时改一次密码，已墙,并重定向到[ishadowx.net](https://ss.ishadowx.net/)
-- [yhyhd.org](https://xsjs.yhyhd.org/free-ss)-每周改一次密码
+- [ishadowx.net](https://ss.ishadowx.net/)-每6小时改一次密码，经测试免费的可用
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
 - [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙,作者消失一段时间后表示，暂时不更新免费节点。
 
