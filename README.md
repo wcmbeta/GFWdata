@@ -51,12 +51,14 @@
 
 ### Windows
 - [ss-4.0.6](/client/windows/ss/ss-4.0.6.zip)
+- [ss-4.0.8](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.8/Shadowsocks-4.0.8.zip)
 - [ssr-4.7.0](/client/windows/ssr/ssr-4.7.0-win.7z)
 
 ### Mac
 SSX带有-R8后缀的支持SSR
 - [ss-2.6.3](/client/mac/ss/ss-2.6.3.dmg)，不是很推荐，是比较旧的版本
-- [ssx-ng-1.6.1](/client/mac/ss/SSX-NG.1.6.1.zip)，SS推荐这个
+- [ssx-ng-1.6.1](/client/mac/ss/SSX-NG.1.6.1.zip)，SS
+- [ssx-ng-1.7.1](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.7.1/ShadowsocksX-NG.1.7.1.zip)，SS
 - [ssx-ng-R8-1.4.1](/client/mac/ssr/SSX-NG-R8-1.4.1.dmg)，SSR
 - [ssx-ng-R8-1.4.3](/client/mac/ssr/SSX-NG-R8-1.4.3.dmg)，SSR
 
@@ -65,10 +67,11 @@ SSX带有-R8后缀的支持SSR
 -------------
 [官网](https://getlantern.org)，[官方论坛](https://github.com/getlantern/forum#蓝灯lantern最新版本下载)，每个月免费500M流量
 ### 安装包 
--  [android-蓝灯-4.2.2.apk](/client/android/lantern/lantern-4.2.2-2017-10-16.apk) 
+-  [android-蓝灯-4.4.1.apk](/client/android/lantern/org.getlantern.lantern_20180201-4.4.1.apk) 
 - <a href="https://play.google.com/store/apps/details?id=org.getlantern.lantern"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
 -  [windows-蓝灯.exe](/client/windows/lantern/lantern-installer.exe)
 -  [mac-蓝灯.dmg](/client/mac/lantern/lantern-installer.dmg)
+-  所有版本建议官网/官方论坛(github)下载
 
 3.Gfw.press大杀器
 -------------
@@ -84,16 +87,16 @@ VPN Gate 免费的学术实验项目。
 - [官网](http://www.vpngate.net/) 提供镜像，以及每日镜像邮件订阅，提供节点和教程。
 
 ### 镜像站点列表 
-(更新于 2017-12-28 09:57:02 UTC)
-- [镜像1](http://125.132.66.174:15947/cn/) (Mirror location: Korea Republic of)
-- [镜像2](http://118.40.207.40:48695/cn/) (Mirror location: Korea Republic of)
-- [镜像3](http://p1252228-ipngn14501marunouchi.tokyo.ocn.ne.jp:27869/cn/) (Mirror location: Japan)
-- [镜像4](http://rrcs-74-142-245-76.central.biz.rr.com:11455/cn/) (Mirror location: United States)
-- [镜像5](http://176.192.215.160:60457/cn/) (Mirror location: Russian Federation)
+(更新于 2018-02-24 16:53:59)
+- [镜像1](http://183-180-56-72.west.ap.gmo-isp.jp:39559/cn/) (Mirror location: Japan)
+- [镜像2](http://58.122.238.147:32497/cn/) (Mirror location: Korea Republic of)
+- [镜像3](http://119.200.162.179:23001/cn/) (Mirror location: Korea Republic of)
+- [镜像4](http://ngn3-ppp2459.osaka.sannet.ne.jp:28896/cn/) (Mirror location: Japan)
+- [镜像5](http://110.15.239.69:53209/cn/) (Mirror location: Korea Republic of)
 
 ### SoftEther VPN（推荐）
 这种方式windows独有，需配合客户端使用，安装-搜索公共VPN-连接。另外[MS-SSTP]协议也只适用windows，但不需要客户端
-- [windows-2017.10.25](/client/windows/vpngate/vpngate-client-2017.10.25-build-9651.139714.zip)
+- [windows-2018.02.24](/client/windows/vpngate/vpngate-client-2018.02.24-build-9656.140690.zip)
 
 ### 通用协议
 适用于windows及其他设备如Mac、Android、iPhone等使用以下协议方案来使用在vpngate官网获取的节点，以下两种方式尝试了多次未能成功。
@@ -155,9 +158,10 @@ VPN Gate 免费的学术实验项目。
 有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点，并且几小时修改密码，可能随时失效，不是很稳定，
 而且会有一些限制，比如bt，看视频等，也有被监控的风险。要求较高的建议付费节点或者自行搭建。
 
-- [ishadowx.net](https://ss.ishadowx.net/)-每6小时改一次密码，经测试免费的可用
+- [ishadowx.net](https://ss.ishadowx.net/)-每6小时改一次密码，目前无法打开网站
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
 - [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙,作者消失一段时间后表示，暂时不更新免费节点。
+- [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 11.相关链接
 -------------
@@ -184,6 +188,6 @@ VPN Gate 免费的学术实验项目。
 12.其他
 --------------
 - SS、SSR没有所谓的什么官方网站，也不销售节点，使用收费节点注意甄别。
-- 近期大面积节点被墙，所以添加一些老牌的工具，速度不一定可观
+- 一些老牌的工具，速度不一定可观
  
 <del>早日肉翻</del>[回到顶部](#目录)
