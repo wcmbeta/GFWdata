@@ -162,7 +162,7 @@ VPN Gate 免费的学术实验项目。
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
 - [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙,作者消失一段时间后表示，暂时不更新免费节点。
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-
+- [free-ss](https://get.freess.today/)-每4小时改一次密码
 11.相关链接
 -------------
 ### github
