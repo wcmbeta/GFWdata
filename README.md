@@ -163,6 +163,7 @@ VPN Gate 免费的学术实验项目。
 - [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙,作者消失一段时间后表示，暂时不更新免费节点。
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [free-ss](https://get.freess.today/)-每4小时改一次密码
+
 11.相关链接
 -------------
 ### github
@@ -175,6 +176,8 @@ VPN Gate 免费的学术实验项目。
 - [gfw.press](https://github.com/chinashiyu/gfw.press)
 - [surge.conf](https://github.com/lhie1/Surge)
 - [GFWList](https://github.com/gfwlist/gfwlist)
+- [v2ray](https://github.com/v2ray/v2ray-core)
+- [Brook](https://github.com/txthinking/brook)
  
 ### Twitter
 - [clowwindy-shadowsocks](https://twitter.com/clowwindy)
