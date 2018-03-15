@@ -9,7 +9,7 @@
 目录
 -------------
   * [0.修改hosts](#0修改hosts)
-  * [1.Shadowsocks(R)](#1shadowsocksr)
+  * [1.Shadowsocks(R)](#1shadowsocks系列)
   * [2.Lantern蓝灯](#2lantern蓝灯)
   * [3.Gfw.press大杀器](#3gfwpress大杀器)
   * [4.VPN Gate](#4vpngate)
@@ -22,56 +22,41 @@
   * [11.相关链接](#11相关链接)
   * [12.其他](#12其他)
 
-
-
-
 0.修改hosts
 -------------
 1. google-hosts文件[传送门](https://github.com/txthinking/google-hosts)，需要经常更新
 
 
 
-1.ShadowsocksR
+1.Shadowsocks系列
 -------------
 区分原版SS和SSR，SSR版本可选择配置兼容SS
 
-### Android
-- [Shadowsock.apk](/client/android/ss/com.github.shadowsocks.apk)
-- <a href="https://play.googss-nightly-4.1.3.apkle.com/store/apps/details?id=com.github.shadowsocks"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
-
-- [SSR-3.3.5.apk](/client/android/ssr/ssr-3.3.5.apk)
-- [postern.apk](/client/android/postern.apk)，界面比较那个，却是Android里的surge，支持surge.conf
+### 客户端
+| 名称 | windows | mac | andoird |
+| :---: | :---: | :---: | :---: |
+| SS | [ss-4.0.8](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.8/Shadowsocks-4.0.8.zip) | [ss-2.6.3](/client/mac/ss/ss-2.6.3.dmg),[ssx-ng-1.7.1](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.7.1/ShadowsocksX-NG.1.7.1.zip) | [Shadowsock.apk](/client/android/ss/com.github.shadowsocks.apk),[postern.apk](/client/android/postern.apk) |
+| SSR | [ssr-4.7.0](/client/windows/ssr/ssr-4.7.0-win.7z) | [ssx-ng-R8-1.4.3](/client/mac/ssr/SSX-NG-R8-1.4.3.dmg) | [SSR-3.3.5.apk](/client/android/ssr/ssr-3.3.5.apk) |
 
 ### iOS 
-有能力建议购买正版支持作者,国区已购买参考[TestFlight](https://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](https://blog.wateroot.com/gfw/surge-conf-data.html)
-1. surge （中国区下架）  --- 同步推 
-2. shadowrocket(小飞机，中国区下架) --- PP助手
-3. Wingy （中国区下架）----PP助手  [App Store免费](https://itunes.apple.com/cn/app/shadowsocks-wingy-proxy-for-http-socks5-ss/id1148026741?mt=8)
+iOS由于不可抗力因素国区下架,可以用PP助手/同步推等安装,有能力建议购买正版支持作者,国区已购买
+参考[TestFlight](https://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](https://blog.wateroot.com/gfw/surge-conf-data.html)
+1. surge
+2. shadowrocket
+3. Wingy
 4. potatso 
-
-### Windows
-- [ss-4.0.6](/client/windows/ss/ss-4.0.6.zip)
-- [ss-4.0.8](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.8/Shadowsocks-4.0.8.zip)
-- [ssr-4.7.0](/client/windows/ssr/ssr-4.7.0-win.7z)
-
-### Mac
-SSX带有-R8后缀的支持SSR
-- [ss-2.6.3](/client/mac/ss/ss-2.6.3.dmg)，不是很推荐，是比较旧的版本
-- [ssx-ng-1.6.1](/client/mac/ss/SSX-NG.1.6.1.zip)，SS
-- [ssx-ng-1.7.1](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.7.1/ShadowsocksX-NG.1.7.1.zip)，SS
-- [ssx-ng-R8-1.4.1](/client/mac/ssr/SSX-NG-R8-1.4.1.dmg)，SSR
-- [ssx-ng-R8-1.4.3](/client/mac/ssr/SSX-NG-R8-1.4.3.dmg)，SSR
-
 
 2.Lantern蓝灯
 -------------
 [官网](https://getlantern.org)，[官方论坛](https://github.com/getlantern/forum#蓝灯lantern最新版本下载)，每个月免费500M流量
-### 安装包 
--  [android-蓝灯-4.4.1.apk](/client/android/lantern/org.getlantern.lantern_20180201-4.4.1.apk) 
-- <a href="https://play.google.com/store/apps/details?id=org.getlantern.lantern"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="48"></a>
--  [windows-蓝灯.exe](/client/windows/lantern/lantern-installer.exe)
--  [mac-蓝灯.dmg](/client/mac/lantern/lantern-installer.dmg)
--  所有版本建议官网/官方论坛(github)下载
+
+### 客户端 
+所有版本建议官网/官方论坛(github)下载
+
+| 名称 | windows | mac | andoird |
+| :---: | :---: | :---: | :---: |
+| Lantern | [windows-蓝灯.exe](/client/windows/lantern/lantern-installer.exe) | [mac-蓝灯.dmg](/client/mac/lantern/lantern-installer.dmg) | [android-蓝灯-4.4.1.apk](/client/android/lantern/org.getlantern.lantern_20180201-4.4.1.apk) |
+
 
 3.Gfw.press大杀器
 -------------
@@ -146,6 +131,8 @@ VPN Gate 免费的学术实验项目。
 1. [Shadowsocks](https://blog.wateroot.com/linux/vultr-install-shadowsock.html)
 2. [ShadowsocksR](https://blog.wateroot.com/gfw/vps-install-shadowsocksr.html)
 3. [大杀器](https://gfw.press/blog/?p=21)
+4. [v2ray]待更新
+5. [Brook]待更新
 
 ### 加速
 1. [BBR](https://blog.wateroot.com/linux/linux-shadowsocks-bbr.html)
@@ -160,7 +147,7 @@ VPN Gate 免费的学术实验项目。
 
 - [ishadowx.net](https://ss.ishadowx.net/)-每6小时改一次密码，目前无法打开网站
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
-- [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙,作者消失一段时间后表示，暂时不更新免费节点。
+- [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙，作者消失一段时间后表示，暂时不更新免费节点。
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [free-ss](https://get.freess.today/)-每4小时改一次密码
 
@@ -178,7 +165,7 @@ VPN Gate 免费的学术实验项目。
 - [GFWList](https://github.com/gfwlist/gfwlist)
 - [v2ray](https://github.com/v2ray/v2ray-core)
 - [Brook](https://github.com/txthinking/brook)
- 
+
 ### Twitter
 - [clowwindy-shadowsocks](https://twitter.com/clowwindy)
 - [breakwa11-shadowsocksR](https://twitter.com/breakwa11)
