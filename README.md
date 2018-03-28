@@ -2,31 +2,34 @@
 个人收集整理科学上网的资料，保持更新
 ===================
 
+科学上网有风险，仅用于学习研究，各工具排名不分先后,速度和稳定性也没有进行系统全面的对比，有条件的可以自行尝试
+比较。
 
-科学上网有风险，仅用于学习研究，文件存放在client文件夹，可以查看相关旧版本，图片存放在image文件夹。
-如地址失效，版本过旧，欢迎issue、pull request。
+客户端文件存放在client文件夹，可以查看相关旧版本，图片存放在image文件夹。
+
+如地址失效，版本过旧，好的建议，参与更新（哪怕是修改排版~），欢迎 email / issue / pull request。
 
 目录
 -------------
   * [0.修改hosts](#0修改hosts)
   * [1.Shadowsocks(R)](#1shadowsocks系列)
   * [2.Lantern蓝灯](#2lantern蓝灯)
-  * [3.Gfw.press大杀器](#3gfwpress大杀器)
-  * [4.VPN Gate](#4vpngate)
-  * [5.psiphon3赛风](#5psiphon3赛风)
-  * [6.freegate自由门](#6freegate自由门)
-  * [7.Ultrasurf无界浏览](#7ultrasurf无界浏览)
-  * [8.XX-Net](#8xxnet)
-  * [9.自己搭建](#9自己搭建)
-  * [10.免费节点](#10免费节点)
-  * [11.相关链接](#11相关链接)
-  * [12.其他](#12其他)
+  * [3.v2ray](#3v2ray)
+  * [4.Gfw.press大杀器](#4gfwpress大杀器)
+  * [5.Brook](#5Brook)
+  * [6.VPN Gate](#6vpngate)
+  * [7.psiphon3赛风](#7psiphon3赛风)
+  * [8.freegate自由门](#8freegate自由门)
+  * [9.Ultrasurf无界浏览](#9ultrasurf无界浏览)
+  * [10.XX-Net](#10xxnet)
+  * [11.自己搭建](#自己搭建)
+  * [12.免费节点](#免费节点)
+  * [13.相关链接](#相关链接)
+  * [14.其他](#其他)
 
 0.修改hosts
 -------------
 1. google-hosts文件[传送门](https://github.com/txthinking/google-hosts)，需要经常更新
-
-
 
 1.Shadowsocks系列
 -------------
@@ -58,15 +61,30 @@ iOS由于不可抗力因素国区下架,可以用PP助手/同步推等安装,有
 | Lantern | [windows-蓝灯.exe](/client/windows/lantern/lantern-installer.exe) | [mac-蓝灯.dmg](/client/mac/lantern/lantern-installer.dmg) | [android-蓝灯-4.4.1.apk](/client/android/lantern/org.getlantern.lantern_20180201-4.4.1.apk) |
 
 
-3.Gfw.press大杀器
+3.v2ray
+-------------
+v2ray是Project V项目创作的内核，也是一个模块化的代理工具包，支持多种代理协议
+- [项目地址](https://github.com/v2ray/v2ray-core)
+- [官网](https://www.v2ray.com/)
+- [客户端](https://www.v2ray.com/ui_client/)
+- [如何搭建](#自己搭建),或者按照官网教程操作
+
+4.Gfw.press大杀器
 -------------
   <del>开放注册-获取节点-下载-配置-done!</del>经2017-10之后,暂停提供免费服务
   1. 注册[传送门](https://gfw.press)
   2. 各种操作(pc端，app等工具下载，服务器搭建等)[传送门](https://gfw.press/blog/?p=2047)
   3. 未越狱iOS用户[传送门](https://blog.wateroot.com/ios/ios-use-gfw-press.html)
-  4. android用户可以尝试[postern]((/client/android/postern.apk))
+  4. Android用户可以尝试[postern]((/client/android/postern.apk))
 
-4.VPNGate
+5.Brook
+-------------
+Brook是一款跨平台、配置简单，易于上手的工具，需要搭建服务或者他人分享。
+客户端包括:Window/Mac/Android/iOS
+- [项目地址](https://github.com/txthinking/brook)，有server的搭建指引和client的下载
+- [如何搭建](#自己搭建)
+
+6.VPNGate
 -------------
 VPN Gate 免费的学术实验项目。
 - [官网](http://www.vpngate.net/) 提供镜像，以及每日镜像邮件订阅，提供节点和教程。
@@ -93,7 +111,7 @@ VPN Gate 免费的学术实验项目。
 - [windows-2017.9.26](/client/windows/open-vpn/openvpn-install-2.4.4-I601.exe)
 - [mac-tunnelblick](/client/mac/open-vpn/Tunnelblick_3.7.3_build_4880.dmg)
 
-5.psiphon3赛风
+7.psiphon3赛风
 -------------
 [网站](https://psiphon3.com)
 
@@ -101,24 +119,24 @@ VPN Gate 免费的学术实验项目。
 - [Android](/client/android/psiphon3/PsiphonAndroid.apk)
 - [iOS-浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)国区下架
 
-6.freegate自由门
+8.freegate自由门
 -------------
 - [windows-7.61-20170512](/client/windows/freegate/fg761p.zip)
 - <del>[Android-3.2](/client/android/freegate/fgma-3.2.apk)</del> 2015年的版本，基本可以无视
 
-7.Ultrasurf无界浏览
+9.Ultrasurf无界浏览
 -------------
 - [windows-16.03-201607120](/client/windows/Ultrasurf/u.exe)
 - [Android-4.0-20170415](/client/android/Ultrasurf/um.apk)
 
-8.XXNet
+10.XXNet
 -------------
 类GoAgent，启动（start）-获取ip-连接GAE proxy(即Google App Engine，自带公共ID,也可以自己创建部署：一个id每天1G流量)，也可以使用X_tunnel(收费)，IP获取晚上比较容易，公共ID也可以看YouTube标清
 [github](https://github.com/XX-net/XX-Net)
 - [windows/mac](/client/xx-net/XX-Net-3.7.7.zip)
 - [Android-3.6.3](/client/xx-net/android/XX-Net-3.6.3-debug.apk)
 
-9.自己搭建
+自己搭建
 -------------
 
 ### vps选择
@@ -128,17 +146,18 @@ VPN Gate 免费的学术实验项目。
 4. [RamNode](http://www.ramnode.com/)
 
 ### 如何搭建
+介绍的大多是一键脚本，更简单，也更友好，也可参照原项目的安装指引。
 1. [Shadowsocks](https://blog.wateroot.com/linux/vultr-install-shadowsock.html)
 2. [ShadowsocksR](https://blog.wateroot.com/gfw/vps-install-shadowsocksr.html)
 3. [大杀器](https://gfw.press/blog/?p=21)
-4. [v2ray]待更新
-5. [Brook]待更新
+4. [v2ray](https://blog.wateroot.com/gfw/vultr-vps-install-v2ray.html)
+5. [Brook](https://blog.wateroot.com/gfw/manage-shell-install-brook.html)
 
 ### 加速
 1. [BBR](https://blog.wateroot.com/linux/linux-shadowsocks-bbr.html)
 2. 锐速
 
-10.免费节点 
+免费节点 
 -------------
  
 ### 提供免费体验/测试节点的网站
@@ -151,7 +170,7 @@ VPN Gate 免费的学术实验项目。
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [free-ss](https://get.freess.today/)-每4小时改一次密码
 
-11.相关链接
+相关链接
 -------------
 ### github
 反馈问题，查看代码，获取最新动态，最新版本
@@ -175,8 +194,9 @@ VPN Gate 免费的学术实验项目。
 - [potatso](https://twitter.com/PotatsoApp)
 - [wingy](https://twitter.com/HelloWingy)
  
-12.其他
+其他
 --------------
+- 项目/客户端的最新版本和更多历史版本,在github的release页面获取
 - SS、SSR没有所谓的什么官方网站，也不销售节点，使用收费节点注意甄别。
 - 一些老牌的工具，速度不一定可观
  
