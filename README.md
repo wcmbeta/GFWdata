@@ -160,14 +160,15 @@ VPN Gate 免费的学术实验项目。
 -------------
  
 ### 提供免费体验/测试节点的网站
-有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点，并且几小时修改密码，可能随时失效，不是很稳定，
+有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点和提供试用，并且几小时修改密码，可能随时失效，不是很稳定，
 而且会有一些限制，比如bt，看视频等，也有被监控的风险。要求较高的建议付费节点或者自行搭建。
 
-- [ishadowx.net](https://ss.ishadowx.net/)-每6小时改一次密码，目前无法打开网站
-- [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.bid)
-- [gfw.press](https://gfw.press)-长期免费，大杀器配套使用，建议每周查看节点更新，域名被墙，作者消失一段时间后表示，暂时不更新免费节点。
+- [ishadowx.net](https://ss.ishadowx.net/) - 每6小时改一次密码
+- [ss8.fun](https://en.ss8.fun/) - 每4小时改一次密码
+- [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.ws)
+- <del>[gfw.press](https://gfw.press) - 暂时不更新免费节点。</del>
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-- [free-ss](https://get.freess.today/)-每4小时改一次密码
+- [free-ss](https://get.freess.today/) - 每4小时改一次密码
 
 相关链接
 -------------
