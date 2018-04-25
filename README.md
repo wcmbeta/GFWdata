@@ -201,5 +201,6 @@ VPN Gate 免费的学术实验项目。
 - 一些老牌的工具，速度不一定可观。
 - [Tor](https://blog.wateroot.com/tool/internet-security-tor-browser.html)、[I2P](https://blog.wateroot.com/tool/internet-security-i2p.html)也能实现类似功能，但主要还是用在匿名安全上，速度也比较慢。
 - 有限传播。
+- 感谢@yanggis将owner移交回来。
  
 <del>早日肉翻</del>[回到顶部](#目录)
