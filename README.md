@@ -28,7 +28,7 @@
 
 0.修改hosts
 -------------
-1. google-hosts文件[传送门](https://github.com/txthinking/google-hosts)，需要经常更新
+1. [google-hosts](https://github.com/googlehosts/hosts/blob/master/hosts-files/hosts)，需要经常更新
 
 1.Shadowsocks系列
 -------------
@@ -174,6 +174,7 @@ VPN Gate 免费的学术实验项目。
 -------------
 ### github
 反馈问题，查看代码，获取最新动态，最新版本
+- [google-hosts](https://github.com/googlehosts/hosts)
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 - [ShadowsocksX-NG-mac](https://github.com/shadowsocks/ShadowsocksX-NG)
