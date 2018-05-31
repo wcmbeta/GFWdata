@@ -41,7 +41,7 @@
 | SSR | [ssr-4.7.0](/client/windows/ssr/ssr-4.7.0-win.7z) | [ssx-ng-R8-1.4.3](/client/mac/ssr/SSX-NG-R8-1.4.3.dmg) | [SSR-3.3.5.apk](/client/android/ssr/ssr-3.3.5.apk) |
 
 ### iOS 
-iOS由于不可抗力因素国区下架,可以用PP助手/同步推等安装,有能力建议购买正版支持作者,国区已购买
+iOS由于不可抗力因素国区下架,可以用PP助手/同步推等安装(ipa备份在client文件夹),有能力建议购买正版支持作者,国区已购买
 参考[TestFlight](https://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](https://blog.wateroot.com/gfw/surge-conf-data.html)
 1. surge
 2. shadowrocket
