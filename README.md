@@ -4,27 +4,27 @@
 
 科学上网有风险，仅用于学习研究，各工具排名不分先后,速度和稳定性也没有进行系统全面的对比，有条件的可以自行尝试比较。
 
-客户端文件存放在client文件夹，可以查看相关旧版本，图片存放在image文件夹。
+客户端文件存放在client文件夹(LFS管理)，可以查看相关旧版本，图片存放在image文件夹。
 
 如地址失效，版本过旧，好的建议，参与更新（哪怕是修改排版~），欢迎 email / issue / pull request。
 
 目录
 -------------
-  * [0.修改hosts](/Users/water/Desktop/github/README.md#0修改hosts)
-  * [1.Shadowsocks(R)](/Users/water/Desktop/github/README.md#1shadowsocks系列)
-  * [2.Lantern蓝灯](/Users/water/Desktop/github/README.md#2lantern蓝灯)
-  * [3.v2ray](/Users/water/Desktop/github/README.md#3v2ray)
-  * [4.Gfw.press大杀器](/Users/water/Desktop/github/README.md#4gfwpress大杀器)
-  * [5.Brook](/Users/water/Desktop/github/README.md#5brook)
-  * [6.VPN Gate](/Users/water/Desktop/github/README.md#6vpngate)
-  * [7.psiphon3赛风](/Users/water/Desktop/github/README.md#7psiphon3赛风)
-  * [8.freegate自由门](/Users/water/Desktop/github/README.md#8freegate自由门)
-  * [9.Ultrasurf无界浏览](/Users/water/Desktop/github/README.md#9ultrasurf无界浏览)
-  * [10.XX-Net](/Users/water/Desktop/github/README.md#10xxnet)
-  * [11.自己搭建](/Users/water/Desktop/github/README.md#自己搭建)
-  * [12.免费节点](/Users/water/Desktop/github/README.md#免费节点)
-  * [13.相关链接](/Users/water/Desktop/github/README.md#相关链接)
-  * [14.其他](/Users/water/Desktop/github/README.md#其他)
+  * [0.修改hosts](#0修改hosts)
+  * [1.Shadowsocks(R)](#1shadowsocks系列)
+  * [2.Lantern蓝灯](#2lantern蓝灯)
+  * [3.v2ray](#3v2ray)
+  * [4.Gfw.press大杀器](#4gfwpress大杀器)
+  * [5.Brook](#5brook)
+  * [6.VPN Gate](#6vpngate)
+  * [7.psiphon3赛风](#7psiphon3赛风)
+  * [8.freegate自由门](#8freegate自由门)
+  * [9.Ultrasurf无界浏览](#9ultrasurf无界浏览)
+  * [10.XX-Net](#10xxnet)
+  * [11.自己搭建](#自己搭建)
+  * [12.免费节点](#免费节点)
+  * [13.相关链接](#相关链接)
+  * [14.其他](#其他)
 
 0.修改hosts
 -------------
@@ -66,7 +66,7 @@ v2ray是Project V项目创作的内核，也是一个模块化的代理工具包
 - [项目地址](https://github.com/v2ray/v2ray-core)
 - [官网](https://www.v2ray.com/)
 - [客户端](https://www.v2ray.com/ui_client/)
-- [如何搭建](/Users/water/Desktop/github/README.md#自己搭建),或者按照官网教程操作
+- [如何搭建](#自己搭建),或者按照官网教程操作
 
 4.Gfw.press大杀器
 -------------
@@ -74,14 +74,14 @@ v2ray是Project V项目创作的内核，也是一个模块化的代理工具包
   1. 注册[传送门](https://gfw.press)
   2. 各种操作(pc端，app等工具下载，服务器搭建等)[传送门](https://gfw.press/blog/?p=2047)
   3. 未越狱iOS用户[传送门](https://blog.wateroot.com/ios/ios-use-gfw-press.html)
-  4. Android用户可以尝试[postern]((/client/android/postern.apk))
+  4. Android用户可以尝试[postern](/client/android/postern.apk)
 
 5.Brook
 -------------
 Brook是一款跨平台、配置简单，易于上手的工具，需要搭建服务或者他人分享。
 客户端包括:Window/Mac/Android/iOS
 - [项目地址](https://github.com/txthinking/brook)，有server的搭建指引和client的下载
-- [如何搭建](/Users/water/Desktop/github/README.md#自己搭建)
+- [如何搭建](#自己搭建)
 
 6.VPNGate
 -------------
@@ -98,7 +98,7 @@ VPN Gate 免费的学术实验项目。
 
 ### SoftEther VPN（推荐）
 这种方式windows独有，需配合客户端使用，安装-搜索公共VPN-连接。另外[MS-SSTP]协议也只适用windows，但不需要客户端
-- [windows-2018.02.24](/client/windows/vpngate/vpngate-client-2018.02.24-build-9656.140690.zip)
+- [vpngate-client-2018-07-05](client/windows/vpngate/vpngate-client-2018.07.05-build-9668.141738.zip)
 
 ### 通用协议
 适用于windows及其他设备如Mac、Android、iPhone等使用以下协议方案来使用在vpngate官网获取的节点，以下两种方式尝试了多次未能成功。
@@ -106,7 +106,7 @@ VPN Gate 免费的学术实验项目。
 - [OpenVPN]() 使用相应的openvpn工具连接
 
 ### OpenVPN client
-一般来说，下载安装OpenVPN客户端，下载节点的配置文件[示例文件-.open](/conf/open-vpn/vpngate_60.128.248.155_udp_1323.ovpn)（可能已失效），然后连接。
+一般来说，下载安装OpenVPN客户端，下载节点的配置文件 xxx-.open，然后连接。
 - [windows-2017.9.26](/client/windows/open-vpn/openvpn-install-2.4.4-I601.exe)
 - [mac-tunnelblick](/client/mac/open-vpn/Tunnelblick_3.7.3_build_4880.dmg)
 
@@ -132,7 +132,7 @@ VPN Gate 免费的学术实验项目。
 -------------
 类GoAgent，启动（start）-获取ip-连接GAE proxy(即Google App Engine，自带公共ID,也可以自己创建部署：一个id每天1G流量)，也可以使用X_tunnel(收费)，IP获取晚上比较容易，公共ID也可以看YouTube标清
 [github](https://github.com/XX-net/XX-Net)
-- [windows/mac](/client/xx-net/XX-Net-3.7.7.zip)
+- [windows/mac](/client/xx-net/XX-Net-3.12.2.zip)
 - [Android-3.6.3](/client/xx-net/android/XX-Net-3.6.3-debug.apk)
 
 自己搭建
@@ -161,14 +161,15 @@ VPN Gate 免费的学术实验项目。
  
 ### 提供免费体验/测试节点的网站
 有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点和提供试用，并且几小时修改密码，可能随时失效，不是很稳定，
-而且会有一些限制，比如bt，看视频等，也有被监控的风险。要求较高的建议付费节点或者自行搭建。
+而且会有一些限制，比如bt，看视频等，也有被监控的风险。对速度和安全性要求较高的建议付费节点或者自行搭建。
 
-- [ishadowx.net](https://ss.ishadowx.net/) - 每6小时改一次密码
-- [ss8.fun](https://en.ss8.fun/) - 每4小时改一次密码
-- [doub.io](https://doub.io/sszhfx/) - 站长和网友分享，未墙[地址](https://doub.ws)
+- [ishadowx.net](https://my.ishadowx.net/) - 每6小时改一次密码
+- [ss8.fun](https://get.ss8.fun/) - 每4小时改一次密码
+- [doub.io](https://doub.io/sszhfx/) - 站长和网友分享
 - <del>[gfw.press](https://gfw.press) - 暂时不更新免费节点。</del>
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-- [free-ss](https://get.freess.today/) - 每4小时改一次密码
+- [freess](https://my.freess.today/) - 每4小时改一次密码
+- [爬虫整合](http://ss-ssshare.7e14.starter-us-west-2.openshiftapps.com/),爬取各种免费账号,
 
 相关链接
 -------------
@@ -204,4 +205,4 @@ VPN Gate 免费的学术实验项目。
 - 有限传播。
 - 感谢@yanggis将owner移交回来。
  
-<del>早日肉翻</del>[回到顶部](/Users/water/Desktop/github/README.md#目录)
+<del>早日肉翻</del>[回到顶部](#目录)
