@@ -199,10 +199,9 @@ VPN Gate 免费的学术实验项目。
 其他
 --------------
 - 项目/客户端的最新版本和更多历史版本,在github的release页面获取
-- SS、SSR没有所谓的什么官方网站，也不销售节点，使用收费节点注意甄别。
+- [SS官网](https://shadowsocks.org)、SSR官网等，往往仅为社区提供介绍和下载,不销售节点，使用收费节点时注意甄别。
 - 一些老牌的工具，速度不一定可观。
 - [Tor](https://blog.wateroot.com/tool/internet-security-tor-browser.html)、[I2P](https://blog.wateroot.com/tool/internet-security-i2p.html)也能实现类似功能，但主要还是用在匿名安全上，速度也比较慢。
 - 有限传播。
-- 感谢@yanggis将owner移交回来。
- 
+
 <del>早日肉翻</del>[回到顶部](#目录)
