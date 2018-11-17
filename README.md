@@ -153,7 +153,7 @@ VPN Gate 免费的学术实验项目。
 -------------
 
 ### vps选择
-1. [vultr](https://blog.wateroot.com/go/vultr)，特价2.5$/月，500G/月
+1. [vultr](https://www.vultr.com/?ref=7581451)，特价2.5$/月，500G/月
 2. [搬瓦工](https://www.bwh1.net/)，$19.9/年，500G/月
 3. [DigitalOcean](https://www.digitalocean.com/)
 4. [RamNode](http://www.ramnode.com/)
