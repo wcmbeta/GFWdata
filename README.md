@@ -10,22 +10,22 @@
 
 目录
 -------------
-  * [0.修改hosts](README.md#0修改hosts)
-  * [1.Shadowsocks(R)](README.md#1shadowsocks系列)
-  * [2.Lantern蓝灯](README.md#2lantern蓝灯)
-  * [3.v2ray](README.md#3v2ray)
-  * [4.Gfw.press大杀器](README.md#4gfwpress大杀器)
-  * [5.Brook](README.md#5brook)
-  * [6.VPN Gate](README.md#6vpngate)
-  * [7.psiphon3赛风](README.md#7psiphon3赛风)
-  * [8.freegate自由门](README.md#8freegate自由门)
-  * [9.Ultrasurf无界浏览](README.md#9ultrasurf无界浏览)
-  * [10.XX-Net](README.md#10xxnet)
-  * [11.Outline](README.md#11outline)
-  * [12.自己搭建](README.md#自己搭建)
-  * [13.免费节点](README.md#免费节点)
-  * [14.相关链接](README.md#相关链接)
-  * [15.其他](README.md#其他)
+  * [0.修改hosts](#0修改hosts)
+  * [1.Shadowsocks(R)](#1shadowsocks系列)
+  * [2.Lantern蓝灯](#2lantern蓝灯)
+  * [3.v2ray](#3v2ray)
+  * [4.Gfw.press大杀器](#4gfwpress大杀器)
+  * [5.Brook](#5brook)
+  * [6.VPN Gate](#6vpngate)
+  * [7.psiphon3赛风](#7psiphon3赛风)
+  * [8.freegate自由门](#8freegate自由门)
+  * [9.Ultrasurf无界浏览](#9ultrasurf无界浏览)
+  * [10.XX-Net](#10xxnet)
+  * [11.Outline](#11outline)
+  * [12.自己搭建](#自己搭建)
+  * [13.免费节点](#免费节点)
+  * [14.相关链接](#相关链接)
+  * [15.其他](#其他)
 
 0.修改hosts
 -------------
@@ -174,15 +174,16 @@ VPN Gate 免费的学术实验项目。
 -------------
 
 ### 提供免费体验/测试节点的网站
-有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点和提供试用，并且几小时修改密码，可能随时失效，不是很稳定，
-而且会有一些限制，比如bt，看视频等，也有被监控的风险。对速度和安全性要求较高的建议付费节点或者自行搭建。
+这里仅推荐免费试用，不对其付费服务做保证。有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点和提供试用，有的几小时修改密码，可能随时失效，不是很稳定。
+而且会有一些限制，比如bt，看视频等，也有被监控的风险。对速度和安全性要求较高的建议自行搭建。
 
 - [ishadowx.net](https://my.ishadowx.net/) - 每6小时改一次密码
 - [ss8.fun](https://get.ss8.fun/) - 每4小时改一次密码
 - [doub.io](https://doub.io/sszhfx/) - 站长和网友分享
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [freess](https://my.freess.today/) - 每4小时改一次密码
-- [爬虫整合](https://isspy.herokuapp.com/)，爬取各种免费账号，
+- [爬虫整合](https://isspy.herokuapp.com/) - 爬取各种免费账号
+- [bwg.tw](https://bwg.tw/) - 只有ssr，注册即可获得免费订阅地址
 
 相关链接
 -------------
@@ -216,4 +217,4 @@ VPN Gate 免费的学术实验项目。
 - [Tor](https://blog.wateroot.com/tool/internet-security-tor-browser.html)、[I2P](https://blog.wateroot.com/tool/internet-security-i2p.html)也能实现类似功能，但主要还是用在匿名安全上，速度也比较慢。
 - 有限传播。
 
-<del>早日肉翻</del>[回到顶部](README.md#目录)
+<del>早日肉翻</del>[回到顶部](#目录)
