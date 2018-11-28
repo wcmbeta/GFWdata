@@ -183,7 +183,7 @@ VPN Gate 免费的学术实验项目。
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [freess](https://my.freess.today/) - 每4小时改一次密码
 - [爬虫整合](https://isspy.herokuapp.com/) - 爬取各种免费账号
-- [bwg.tw](https://bwg.tw/) - 只有ssr，注册即可获得免费订阅地址
+- [fwall](https://fwall.pl/) - 只有ssr，注册即可获得免费订阅地址
 
 相关链接
 -------------
