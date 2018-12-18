@@ -4,7 +4,7 @@
 
 科学上网有风险，仅用于学习研究，各工具排名不分先后，速度和稳定性也没有进行系统全面的对比，有条件的可以自行尝试比较。
 
-客户端文件存放在client文件夹(LFS管理)，可以查看相关旧版本，图片存放在image文件夹。
+客户端文件存放在client文件夹(LFS管理,其实并不方便)，可以查看相关旧版本，图片存放在image文件夹。
 
 如地址失效，版本过旧，好的建议，参与更新（哪怕是修改排版~），欢迎 email / issue / pull request。
 
@@ -43,7 +43,7 @@
 
 ### iOS
 iOS由于不可抗力因素国区下架，可以用PP助手/同步推等安装(ipa备份在client文件夹)，有能力建议购买正版支持作者，国区已购买
-参考[TestFlight](https://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](https://blog.wateroot.com/gfw/surge-conf-data.html)，
+参考[TestFlight](https://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](https://blog.wateroot.com/gfw/update-ios-surge-rule-config.html)，
 支持Shortcuts（捷径）/JSBox进行脚本管理更新。
 1. surge
 2. shadowrocket
@@ -155,7 +155,7 @@ VPN Gate 免费的学术实验项目。
 ### vps选择
 1. [vultr](https://www.vultr.com/?ref=7581451)，特价<del>2.5$仅IPv6</del>，3.5$/月，500G/月
 2. [搬瓦工](https://bandwagonhost.com/aff.php?aff=39514)，$19.9/年，500G/月
-3. [DigitalOcean](https://m.do.co/c/c8f5eeb85ddf)
+3. [DigitalOcean](https://m.do.co/c/c8f5eeb85ddf)，新用户送$100/60天
 4. [RamNode](http://www.ramnode.com/)
 
 ### 如何搭建
@@ -196,6 +196,7 @@ VPN Gate 免费的学术实验项目。
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
 - [gfw.press](https://github.com/chinashiyu/gfw.press)
 - [surge.conf/rules](https://github.com/lhie1/Rules)
+- [shadowrocket.conf/rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
 - [GFWList](https://github.com/gfwlist/gfwlist)
 - [v2ray](https://github.com/v2ray/v2ray-core)
 - [Brook](https://github.com/txthinking/brook)
