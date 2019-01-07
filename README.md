@@ -153,7 +153,7 @@ VPN Gate 免费的学术实验项目。
 -------------
 
 ### vps选择
-1. [vultr](https://www.vultr.com/?ref=7581451)，特价<del>2.5$仅IPv6</del>，3.5$/月，500G/月
+1. [vultr](https://www.vultr.com/?ref=7135423)，特价<del>2.5$仅IPv6</del>，3.5$/月，500G/月
 2. [搬瓦工](https://bandwagonhost.com/aff.php?aff=39514)，$19.9/年，500G/月
 3. [DigitalOcean](https://m.do.co/c/c8f5eeb85ddf)，新用户送$100/60天
 4. [RamNode](http://www.ramnode.com/)
@@ -179,7 +179,7 @@ VPN Gate 免费的学术实验项目。
 
 - [ishadowx.net](https://my.ishadowx.net/) - 每6小时改一次密码
 - [ss8.fun](https://get.ss8.fun/) - 每4小时改一次密码
-- [doub.io](https://doub.io/sszhfx/) - 站长和网友分享
+- [doubmirror.cf](https://doubmirror.cf/95f80__8.html) - 站长和网友分享，换了域名
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [freess](https://my.freess.today/) - 每4小时改一次密码
 - [爬虫整合](https://isspy.herokuapp.com/) - 爬取各种免费账号
