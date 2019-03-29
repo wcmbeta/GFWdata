@@ -177,11 +177,10 @@ VPN Gate 免费的学术实验项目。
 这里仅推荐免费试用，不对其付费服务做保证。有些用户节点资源用不完或者一些站点为了增加网站的流量也会分享节点和提供试用，有的几小时修改密码，可能随时失效，不是很稳定。
 而且会有一些限制，比如bt，看视频等，也有被监控的风险。对速度和安全性要求较高的建议自行搭建。
 
-- [ishadowx.net](https://my.ishadowx.net/) - 每6小时改一次密码
-- [ss8.fun](https://get.ss8.fun/) - 每4小时改一次密码
-- [doubmirror.cf](https://doubmirror.cf/95f80__8.html) - 站长和网友分享，换了域名
+- [ishadowx.net](https://d.ishadowx.com/) - 每6小时改一次密码
+- [ss8.fun](https://my.ss8.fun/) - 每4小时改一次密码
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-- [freess](https://my.freess.today/) - 每4小时改一次密码
+- [freess](https://do.freess.today/) - 每4小时改一次密码
 - [爬虫整合](https://isspy.herokuapp.com/) - 爬取各种免费账号
 
 相关链接
