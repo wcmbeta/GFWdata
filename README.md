@@ -181,7 +181,6 @@ VPN Gate 免费的学术实验项目。
 - [ss8.fun](https://my.ss8.fun/) - 每4小时改一次密码
 - [new-pac](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [freess](https://do.freess.today/) - 每4小时改一次密码
-- [爬虫整合](https://isspy.herokuapp.com/) - 爬取各种免费账号
 
 相关链接
 -------------
