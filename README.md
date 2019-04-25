@@ -6,7 +6,7 @@
 
 客户端文件存放在client文件夹(LFS管理,其实并不方便)，可以查看相关旧版本，图片存放在image文件夹。
 
-如地址失效，版本过旧，好的建议，参与更新（哪怕是修改排版~），欢迎 email / issue / pull request。
+如地址失效，版本过旧，好的建议，参与更新（哪怕是修改排版~），欢迎 issue / pull request。
 
 目录
 -------------
@@ -42,13 +42,14 @@
 | SSR |                              [ssr-4.7.0](https://github.com/wcmbeta/GFWdata/blob/master/client/windows/ssr/ssr-4.7.0-win.7z)                               |                                                  [ssx-ng-R8-1.4.3](https://github.com/wcmbeta/GFWdata/blob/master/client/mac/ssr/SSX-NG-R8-1.4.3.dmg)                                                   |                             [SSR-3.3.5.apk](https://github.com/wcmbeta/GFWdata/blob/master/client/android/ssr/ssr-3.3.5.apk)                             |
 
 ### iOS
-iOS由于不可抗力因素国区下架，可以用PP助手/同步推等安装(ipa备份在client文件夹)，有能力建议购买正版支持作者，国区已购买
+iOS客户端普遍支持多种协议（ss/ssr/vmess/http(s)/socks5等），由于不可抗力因素国区下架，可以用PP助手/同步推等安装(ipa备份在client文件夹)，不要使用共享账号登录iCloud，有能力建议购买正版支持作者，国区已购买
 参考[TestFlight](https://blog.wateroot.com/ios/ios-how-to-test-flight.html)。热门并还在维护的[配置规则/屏蔽广告](https://blog.wateroot.com/gfw/update-ios-surge-rule-config.html)，
 支持Shortcuts（捷径）/JSBox进行脚本管理更新。
 1. surge
-2. shadowrocket
+2. shadowrocket（[在线安装](https://i.shadowrocket.org/)，Safari打开）
 3. Wingy
 4. potatso
+5. quantumult （[在线安装](https://q.shadowrocket.org/)，Safari打开）
 
 2.Lantern蓝灯
 -------------
@@ -68,7 +69,7 @@ v2ray是Project V项目创作的内核，也是一个模块化的代理工具包
 - [项目地址](https://github.com/v2ray/v2ray-core)
 - [官网](https://www.v2ray.com/)
 - [客户端](https://www.v2ray.com/ui_client/)
-- [如何搭建](README.md#自己搭建)，或者按照官网教程操作
+- [如何搭建](#自己搭建)，或按照项目readme操作
 
 4.Gfw.press大杀器
 -------------
@@ -83,7 +84,7 @@ v2ray是Project V项目创作的内核，也是一个模块化的代理工具包
 Brook是一款跨平台、配置简单，易于上手的工具，需要搭建服务或者他人分享。
 客户端包括:Window/Mac/Android/iOS
 - [项目地址](https://github.com/txthinking/brook)，有server的搭建指引和client的下载
-- [如何搭建](README.md#自己搭建)
+- [如何搭建](#自己搭建)，或按照项目readme操作
 
 6.VPNGate
 -------------
