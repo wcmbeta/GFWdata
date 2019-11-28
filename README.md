@@ -38,7 +38,7 @@
 ### 客户端
 | 名称 |                                                   Windows                                                    |                                                                           macOS                                                                           |                                                  Andoird                                                   |
 |:---:|:------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| SS  | [ss-4.0.8](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.8/Shadowsocks-4.0.8.zip) | [ss-2.6.3](https://github.com/wcmbeta/GFWdata/blob/master/client/mac/ss/ss-2.6.3.dmg)，[ssx-ng-1.7.1](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.7.1/ShadowsocksX-NG.1.7.1.zip) | [Shadowsock.apk](https://github.com/wcmbeta/GFWdata/blob/master/client/android/ss/com.github.shadowsocks.apk)，[postern.apk](https://github.com/wcmbeta/GFWdata/blob/master/client/android/postern.apk) |
+| SS  | [ss](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) | [ssx-ng](https://github.com/shadowsocks/ShadowsocksX-NG/releases/latest)        | [Shadowsock.apk]，[postern.apk]|
 | SSR |                              [ssr-4.7.0](https://github.com/wcmbeta/GFWdata/blob/master/client/windows/ssr/ssr-4.7.0-win.7z)                               |                                                  [ssx-ng-R8-1.4.3](https://github.com/wcmbeta/GFWdata/blob/master/client/mac/ssr/SSX-NG-R8-1.4.3.dmg)                                                   |                             [SSR-3.3.5.apk](https://github.com/wcmbeta/GFWdata/blob/master/client/android/ssr/ssr-3.3.5.apk)                             |
 
 ### iOS
@@ -53,15 +53,12 @@ iOS客户端普遍支持多种协议（ss/ssr/vmess/http(s)/socks5等），由�
 
 2.Lantern蓝灯
 -------------
-[官网](https://getlantern.org)，[官方论坛](https://github.com/getlantern/forum#蓝灯lantern最新版本下载)，每个月免费500M流量
+[官网](https://getlantern.org/)，[官方论坛](https://github.com/getlantern/forum#蓝灯lantern最新版本下载)，每个月免费500M流量
 
 ### 客户端
-所有版本建议官网/官方论坛(github)下载
-
 |   名称   |                             Windows                              |                           macOS                           |                                          Andoird                                           |
 |:-------:|:----------------------------------------------------------------:|:---------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
-| Lantern | [windows-蓝灯.exe](https://github.com/wcmbeta/GFWdata/blob/master/client/windows/lantern/lantern-installer.exe) | [mac-蓝灯.dmg](https://github.com/wcmbeta/GFWdata/blob/master/client/mac/lantern/lantern-installer.dmg) | [android-蓝灯-4.4.1.apk](https://github.com/wcmbeta/GFWdata/blob/master/client/android/lantern/org.getlantern.lantern_20180201-4.4.1.apk) |
-
+所有版本建议官网/官方论坛(github)下载
 
 3.v2ray
 -------------
@@ -91,17 +88,9 @@ Brook是一款跨平台、配置简单，易于上手的工具，需要搭建服
 VPN Gate 免费的学术实验项目。
 - [官网](http://www.vpngate.net/) 提供镜像，以及每日镜像邮件订阅，提供节点和教程。
 
-### 镜像站点列表
-(更新于 2018-02-24 16:53:59)
-- [镜像1](http://183-180-56-72.west.ap.gmo-isp.jp:39559/cn/) (Mirror location: Japan)
-- [镜像2](http://58.122.238.147:32497/cn/) (Mirror location: Korea Republic of)
-- [镜像3](http://119.200.162.179:23001/cn/) (Mirror location: Korea Republic of)
-- [镜像4](http://ngn3-ppp2459.osaka.sannet.ne.jp:28896/cn/) (Mirror location: Japan)
-- [镜像5](http://110.15.239.69:53209/cn/) (Mirror location: Korea Republic of)
-
 ### SoftEther VPN
 这种方式windows独有，需配合客户端使用，安装-搜索公共VPN-连接。另外[MS-SSTP]协议也只适用windows，但不需要客户端
-- [vpngate-client-2018-07-05](https://github.com/wcmbeta/GFWdata/blob/master/client/windows/vpngate/vpngate-client-2018.07.05-build-9668.141738.zip)
+- [vpngate-client-20191128](https://download.vpngate.jp/common/cd.aspx/vpngate-client-2019.11.28-build-9727.145824.zip)
 
 ### 通用协议
 适用于windows及其他设备如Mac、Android、iPhone等使用以下协议方案来使用在vpngate官网获取的节点，以下两种方式尝试了多次未能成功。
@@ -110,15 +99,15 @@ VPN Gate 免费的学术实验项目。
 
 ### OpenVPN client
 一般来说，下载安装OpenVPN客户端，下载节点的配置文件 xxx-.open，然后连接。
-- [windows-2017.9.26](https://github.com/wcmbeta/GFWdata/blob/master/client/windows/open-vpn/openvpn-install-2.4.4-I601.exe)
-- [mac-tunnelblick](https://github.com/wcmbeta/GFWdata/blob/master/client/mac/open-vpn/Tunnelblick_3.7.3_build_4880.dmg)
+- [windows-20191031](https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.8-I602-Win7.exe)
+- [mac-tunnelblick](https://tunnelblick.net/release/Latest_Tunnelblick_Stable.dmg)
 
 7.psiphon3赛风
 -------------
 [网站](https://psiphon3.com)
 
-- [windows](https://github.com/wcmbeta/GFWdata/blob/master/client/windows/psiphon3/psiphon3.exe)
-- [Android](https://github.com/wcmbeta/GFWdata/blob/master/client/android/psiphon3/PsiphonAndroid.apk)
+- [windows](https://psiphon3.com/psiphon3.exe)
+- [Android](https://psiphon3.com/PsiphonAndroid.apk)
 - [iOS-浏览器](https://itunes.apple.com/us/app/psiphon-browser/id1193362444?ls=1&mt=8)国区下架
 
 8.freegate自由门
@@ -136,8 +125,8 @@ VPN Gate 免费的学术实验项目。
 类GoAgent，启动（start）-获取ip-连接GAE proxy(即Google App Engine，自带公共ID，
 也可以自己创建部署：一个id每天1G流量)，也可以使用X_tunnel(收费)，IP获取晚上比较容易，公共ID也可以看YouTube标清
 [github](https://github.com/XX-net/XX-Net)
-- [windows/mac](https://github.com/wcmbeta/GFWdata/blob/master/client/xx-net/XX-Net-3.12.2.zip)
-- [Android-3.6.3](https://github.com/wcmbeta/GFWdata/blob/master/client/xx-net/android/XX-Net-3.6.3-debug.apk)
+- [windows/mac](https://github.com/XX-net/XX-Net/releases/latest)
+- [Android-3.6.3](https://github.com/XndroidDev/Xndroid/releases)
 
 11.Outline
 ----------
