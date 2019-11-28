@@ -4,7 +4,7 @@
 
 科学上网有风险，仅用于学习研究，各工具排名不分先后，速度和稳定性也没有进行系统全面的对比，有条件的可以自行尝试比较。
 
-客户端文件存放在client文件夹(LFS管理,其实并不方便)，可以查看相关旧版本，图片存放在image文件夹。
+客户端到原项目/官网下载。
 
 如地址失效，版本过旧，好的建议，参与更新（哪怕是修改排版~），欢迎 issue / pull request。
 
@@ -38,7 +38,7 @@
 ### 客户端
 | 名称 |                                                   Windows                                                    |                                                                           macOS                                                                           |                                                  Andoird                                                   |
 |:---:|:------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| SS  | [ss](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) | [ssx-ng](https://github.com/shadowsocks/ShadowsocksX-NG/releases/latest)        | [Shadowsock.apk]，[postern.apk]|
+| SS  | [ss](https://github.com/shadowsocks/shadowsocks-windows/releases/latest) | [ssx-ng](https://github.com/shadowsocks/ShadowsocksX-NG/releases/latest)        | [Shadowsocks.apk](https://github.com/shadowsocks/shadowsocks-android/releases/latest)，[postern.apk]|
 | SSR |                              [ssr-4.7.0](https://github.com/wcmbeta/GFWdata/blob/master/client/windows/ssr/ssr-4.7.0-win.7z)                               |                                                  [ssx-ng-R8-1.4.3](https://github.com/wcmbeta/GFWdata/blob/master/client/mac/ssr/SSX-NG-R8-1.4.3.dmg)                                                   |                             [SSR-3.3.5.apk](https://github.com/wcmbeta/GFWdata/blob/master/client/android/ssr/ssr-3.3.5.apk)                             |
 
 ### iOS
@@ -200,6 +200,7 @@ VPN Gate 免费的学术实验项目。
 其他
 --------------
 - 项目/客户端的最新版本和更多历史版本，在github的release页面获取
+- 没有下载地址的Apk，可以到GooglePlay离线站下载，一般需要科学上网，如[apk下载](https://apps.evozi.com/apk-downloader/)
 - [SS官网](https://shadowsocks.org)、SSR官网等，往往仅为社区提供介绍和下载，不销售节点，使用收费节点时注意甄别。
 - 一些老牌的工具，速度不一定可观。
 - [Tor](https://blog.wateroot.com/tool/internet-security-tor-browser.html)、[I2P](https://blog.wateroot.com/tool/internet-security-i2p.html)也能实现类似功能，但主要还是用在匿名安全上，速度也比较慢。
