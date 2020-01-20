@@ -22,10 +22,11 @@
   * [9.Ultrasurf无界浏览](#9ultrasurf无界浏览)
   * [10.XX-Net](#10xxnet)
   * [11.Outline](#11outline)
-  * [12.自己搭建](#自己搭建)
-  * [13.免费节点](#免费节点)
-  * [14.相关链接](#相关链接)
-  * [15.其他](#其他)
+  * [12.trojan](#12trojan)
+  * [自己搭建](#自己搭建)
+  * [免费节点](#免费节点)
+  * [相关链接](#相关链接)
+  * [其他](#其他)
 
 0.修改hosts
 -------------
@@ -138,6 +139,15 @@ VPN Gate 免费的学术实验项目。
 |:------:|:--------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
 | server | [dmg](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/Outline-Manager.dmg) |   [exe](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/Outline-Manager.exe)    | [AppImage](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/manager/Outline-Manager.AppImage) |                                                                                                  |                                                                    |                                                                                         |
 | client |                     [dmg](https://itunes.apple.com/us/app/outline-app/id1356178125)                      | [exe](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe) |                                                                                                                    | [google play](https://play.google.com/store/apps/details?id=org.outline.android.client)  [apk]() | [itunes](https://itunes.apple.com/us/app/outline-app/id1356177741) | [google play](https://play.google.com/store/apps/details?id=org.outline.android.client) |
+
+12.trojan
+----------
+trojan和v2ray的websocket+tls模式类似，主要模仿 HTTPS 协议。
+- [github](https://github.com/trojan-gfw/trojan/)
+- [windows/mac](https://github.com/trojan-gfw/trojan/releases)
+- [Android-igniter](https://github.com/trojan-gfw/igniter/releases)
+- [iOS-Pharos Pro | Shadowrocket]]
+
 
 自己搭建
 -------------
